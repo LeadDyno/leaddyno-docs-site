@@ -1,0 +1,351 @@
+body {
+  background: rgba(1, 1, 1, .02);
+  .main-content {
+    min-height: 700px;
+  }
+}
+
+.navbar {
+  .brand {
+    font-weight: bold;
+    img {
+      margin-top: -12px;
+      margin-bottom: -8px;
+    }
+  }
+}
+
+.secondary-nav {
+  .navbar-inner {
+    .box-shadow(0 1px 4px rgba(0,0,0,.065));
+    background-color: rgb(65, 148, 65);;
+    background-image: none;
+  }
+  ul.nav {
+    margin-left: 152px;
+  }
+}
+
+.homepage-hero {
+  margin-top: 24px;
+  background: none repeat scroll 0 0 @white;
+  border-bottom: 1px solid #E0E0E0;
+  border-top: 1px solid #E0E0E0;
+  margin-bottom: 20px;
+  text-align: left;
+  h1 {
+    font-weight: bolder;
+    font-size: 44px;
+    line-height: 48px;
+  }
+  .hero-text-div {
+    margin-top: 50px;
+  }
+}
+
+footer {
+  margin-top: 16px;
+  padding-top: 16px;
+  background: none repeat scroll 0 0 #383838;
+  color: #777;
+  a {
+    color: #777;
+    &:hover {
+      color: #ffffff;
+    }
+  }
+  h2 {
+    color: #FFFFFF;
+    font-size: 14px;
+    font-weight: normal;
+  }
+  .blog-feed {
+    li {
+      .clearfix;
+      margin-top: 16px;
+      margin-bottom: 16px;
+      img {
+        float: left;
+      }
+      a {
+        display: inline-block;
+        float: right;
+        width: 150px;
+        margin-right: 20px;
+      }
+    }
+  }
+}
+
+.blog-container {
+  .standard-container;
+  .blog-title {
+    font-size: 28px;
+    font-weight: bold;
+    padding-top: 12px;
+    padding-bottom: 12px;
+    padding-left: 8px;
+    border-bottom: 1px solid @grayLighter;
+  }
+  .blog-author {
+    font-size: 14px;
+    padding-top: 8px;
+    padding-bottom: 8px;
+    padding-left: 12px;
+    border-bottom: 1px solid @grayLighter;
+    margin-bottom: 8px;
+  }
+  .blog-content {
+    .markdown-doc-styling;
+    padding: 16px;
+  }
+  .blog-nav {
+    border-top: 1px solid @grayLighter;
+    .clearfix;
+    padding: 16px;
+  }
+}
+
+.blog-preview {
+  .blog-container;
+  p {
+    margin: 24px;
+  }
+}
+
+.feature-container {
+  .drop-shadow(3px, 3px, 3px, 0.1);
+  margin-top: 0;
+  border-radius: 5px;
+  background-color: white;
+  border: 1px solid #CDCDCD;
+  margin-bottom: 24px;
+  .feature-row {
+    padding: 25px;
+    margin-left: 0px;
+    min-height: 200px;
+    border-bottom: 1px solid @grayLighter;
+    &:first-child {
+      border-top: 1px solid @grayLighter;
+    }
+  ;
+    div {
+      text-align: center;
+      margin: 0px;
+      width: 445px;
+    }
+    img {
+      width: 400px;
+    }
+    strong {
+      margin-top: 10%;
+      display: inline-block;
+      font-size: 22px;
+      color: #222;
+      font-weight: bolder;
+      margin-bottom: 12px;
+    }
+    p {
+      font-size: 16px;
+      margin: 0;
+    }
+  }
+}
+
+.signup-div {
+  margin-top: 8px;
+  b {
+    font-size: 16px;
+    font-weight: bolder;
+  }
+  input {
+    font-size: 17px;
+  }
+  .signup-div input[type=text] {
+    border-top-left-radius: 5px;
+    border-bottom-left-radius: 5px;
+  }
+  input[type=submit] {
+    border-top-right-radius: 5px !important;
+    border-bottom-right-radius: 5px !important;
+  }
+}
+
+.newsletter-container {
+  .drop-shadow(3px, 3px, 3px, 0.1);
+  border-radius: 5px;
+  border: 1px solid #CDCDCD;
+  margin-bottom: 24px;
+  padding-top: 14px;
+  padding-bottom: 14px;
+  background-image: url('/img/marketing_bg.png');
+  img {
+    margin-top: 14px;
+  }
+  .starter-guide-wrapper {
+    margin-top: 10px;
+  }
+}
+
+.inline-screenshot {
+  .border-radius(5px);
+  .drop-shadow(3px, 3px, 3px, 0.1);
+  border: 1px solid #CDCDCD;
+  margin-bottom: 24px;
+}
+
+#video-modal {
+  width: 640px;
+  .modal-header {
+    width: 640px;
+    padding: 0px;
+    margin: 0px;
+    height: 40px;
+    .close {
+      display: inline-block;
+      margin: 8px;
+    }
+  }
+  .modal-body {
+    width: 640px;
+    padding: 0px;
+    margin: 0px;
+  }
+}
+
+.feature-title-row {
+  padding-top: 22px;
+  padding-bottom: 22px;
+  color: #222;
+  font-size: 24px;
+  font-weight: bold;
+}
+
+.signup-row {
+  margin-top: 24px;
+  margin-bottom: 24px;
+  strong {
+    font-size: 24px;
+    font-weight: bold;
+  }
+}
+
+.standard-container {
+  .drop-shadow(3px, 3px, 3px, 0.1);
+  margin-top: 24px;
+  border-radius: 5px;
+  background-color: white;
+  border: 1px solid #CDCDCD;
+  padding: 12px;
+  margin-bottom: 24px;
+}
+
+.markdown-doc-styling {
+  iframe {
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+    margin-top: 24px;
+    margin-bottom: 24px;
+  }
+  img {
+    .border-radius(5px);
+    .drop-shadow(3px, 3px, 3px, 0.1);
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+    margin-top: 24px;
+    margin-bottom: 24px;
+    border: 1px solid #CDCDCD;
+    max-width: 550px;
+  }
+  p, pre {
+    margin-left: 10px;
+    margin-right: 10px;
+  }
+  ol, ul {
+    margin-left: 40px;
+    margin-right: 40px;
+  }
+  .tour-video-caption {
+    .pagination-centered;
+    padding-bottom: 12px;
+    font-weight: bold;
+    font-style: italic;
+  }
+}
+
+.tour-container {
+  .tour-content {
+    .standard-container;
+    .markdown-doc-styling;
+    h2 {
+      .pagination-centered;
+    }
+  }
+}
+
+.guide-container {
+  .guide-nav {
+    border-radius: 5px;
+    margin-top: 24px;
+    padding-top: 8px;
+    padding-bottom: 8px;
+    border: 1px solid #CDCDCD;
+    background: @white;
+  }
+  .guide-content {
+    .standard-container;
+    .markdown-doc-styling;
+  }
+}
+
+.pricing-list {
+  .pagination-centered;
+  border-radius: 5px;
+  display: inline-block;
+  width: 32%;
+  heigh: 500px;
+  border: 1px solid #CDCDCD;
+  margin: 1px;
+  float: left;
+  li {
+    border-top: 1px solid #CDCDCD;
+    padding-top: 8px;
+    padding-bottom: 8px;
+  }
+  .price-value {
+    display: block;
+    color: #5BB75B;
+    font-size: 40px;
+    font-weight: 300;
+    line-height: 40px;
+    margin-bottom: 8px
+  }
+  h4 {
+    margin: 0px;
+    padding-top: 12px;
+    background-color: #5BB75C;
+    color: #FFFFFF;
+    height: 30px;
+    font-size: 24px;
+  }
+  &.free-list {
+    margin-top: 17px;
+    margin-left: 10px;
+    h4 {
+      font-size: 18px;
+      height: 18px;
+      margin: 0px;
+      padding-top: 4px;
+      padding-bottom: 4px;
+      background-color: #a0a0a0;
+      color: #FFFFFF;
+    }
+  }
+}
+
+.spaced-list li {
+  margin-top: 20px;
+}
+

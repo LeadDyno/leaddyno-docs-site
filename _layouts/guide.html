@@ -1,0 +1,107 @@
+---
+layout: default
+---
+
+<div class="container guide-container">
+  <div class="row">
+    <div class="span3">
+      <div class="guide-nav">
+        <ul class="nav nav-list">
+
+          <li class="nav-header">User Guide</li>
+          <li class="{% active introduction %}">
+            <a href="/index.html">Introduction</a>
+          </li>
+          <li class="{% active installation %}">
+            <a href="/installation.html">Installing LeadDyno</a>
+          </li>
+          <li class="{% active customizing-your-affiliate-homepage %}">
+            <a href="/customizing-your-affiliate-homepage.html">Customizing Your Affiliate Home Page</a>
+          </li>
+          <li class="{% active affiliate-management %}">
+            <a href="/affiliate-management.html">Managing Affiliates</a>
+          </li>
+          <li class="{% active content %}">
+            <a href="/content.html">Managing Content</a>
+          </li>
+          <li class="{% active comp-plan %}">
+            <a href="/affiliate-compensation-plan.html">Managing Commission Plans</a>
+          </li>
+          <li class="{% active affiliate-email %}">
+            <a href="/affiliate-marketing-email-follow-up.html">Automated Affiliate Emails</a>
+          </li>
+          <li class="{% active affiliate-dashboard %}">
+            <a href="/affiliate-dashboard.html">The Affiliate Dashboard</a>
+          </li>
+          <li class="{% active affiliate-newsletters %}">
+            <a href="/affiliate-newsletters.html">Affiliate Newsletters <sub><i>Beta</i></sub></a>
+          </li>
+          <li class="{% active tracking-campaigns %}">
+            <a href="/tracking-campaigns.html">Tracking Campaigns</a>
+          </li>
+          <li class="{% active email-tracking %}">
+            <a href="/online-marketing-software-email-tracking.html">Email Marketing Tracking</a>
+          </li>
+          <li class="{% active pay-per-click %}">
+            <a href="/pay-per-click-tracking-software.html">AdWords Tracking</a>
+          </li>
+          <li class="{% active banner-ads %}">
+            <a href="/banner-ad-tracking.html">Banner Ad Tracking</a>
+          </li>
+          <li class="{% active follow-up %}">
+            <a href="/lead-follow-up-email-software.html">Email Follow Up</a>
+          </li>
+          <li class="{% active tools %}">
+            <a href="/tools.html">LeadDyno Affiliate Tools</a>
+          </li>
+
+          <li class="nav-header">Developer Resources</li>
+          <li>
+            <a href="http://developer.leaddyno.com/js-api.html">Javascript API</a>
+            <a href="http://developer.leaddyno.com/rest-api.html">REST API</a>
+          </li>
+
+          <li class="nav-header">Integration Guides</li>
+          <li class="{% active shopify-integration-guide %}">
+            <a href="/shopify-integration-guide.html">Shopify Integration</a>
+          </li>
+          <li class="{% active bigcommerce-integration-guide %}">
+             <a href="/bigcommerce-integration-guide.html">Bigcommerce Integration</a>
+          </li>
+          <li class="{% active etsy-integration-guide %}">
+            <a href="/etsy-integration-guide.html">Etsy Integration</a>
+          </li>
+          <li class="{% active paypal-integration-guide %}">
+            <a href="/paypal-integration-guide.html">Paypal "Buy Now" Integration</a>
+          </li>
+          <li class="{% active paypal-merchant-integration-guide %}">
+            <a href="/paypal-merchant-integration-guide.html">Paypal Merchant Integration</a>
+          </li>
+          <li class="{% active recurly-integration-guide %}">
+            <a href="/recurly-integration-guide.html">Recurly Integration</a>
+          </li>
+          <li class="{% active e-junkie-integration-guide %}">
+            <a href="/e-junkie-integration-guide.html">E-Junkie Integration</a>
+          </li>
+          <li class="{% active wufoo-integration-guide %}">
+            <a href="/wufoo-integration-guide.html">WuFoo Integration</a>
+          </li>
+          <li class="{% active formstack-integration-guide %}">
+            <a href="/formstack-integration-guide.html">Formstack Integration</a>
+          </li>
+        </ul>
+      </div>
+    </div>
+    <div class="span9">
+      <div class="guide-content">
+        {{content}}
+      </div>
+    </div>
+  </div>
+</div>
+
+<script type="text/javascript">
+  var isLocal = window.location.href.indexOf("file:") >= 0 || window.location.href.indexOf("localhost") >= 0;
+  var urlToLoadFrom = isLocal ? "http://localhost:3001/key_rep" : "https://app.leaddyno.com/key_rep";
+  $.getScript(urlToLoadFrom);
+</script>
