@@ -95,7 +95,7 @@ in your own client site event listeners (e.g. on a form.submit() event handler):
 
 Purchase tracking can be done in one of three ways:
 
-* Using a purchase tracking integration (e.g. [PayPal](/guide/paypal-integration-guide.html) or Stripe)
+* Using a purchase tracking integration (e.g. [PayPal](paypal-integration-guide.html) or Stripe)
 * Using the LeadDyno [REST API](http://developer.leaddyno.com/rest-api.html)
 * Using the LeadDyno javascript library
 
@@ -103,8 +103,8 @@ Purchase tracking can be done in one of three ways:
 
 If you are using a billing system that we integrate with, purchase tracking is very simple:
 
-* [Paypal Integration Guide](/guide/paypal-integration-guide.html)
-* [Recurly Integration Guide](/guide/recurly-integration-guide.html)
+* [Paypal Integration Guide](paypal-integration-guide.html)
+* [Recurly Integration Guide](recurly-integration-guide.html)
 
 #### The REST API
 

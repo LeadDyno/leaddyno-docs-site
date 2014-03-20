@@ -73,7 +73,8 @@ out to your affiliates and keep them engaged.
 One of the most powerful concepts in online marketing is [Viral Marketing](http://en.wikipedia.org/wiki/Viral_marketing).
 
 LeadDyno automates this process of turning your customers into affiliates and champions for your product by allowing you
-to create [Viral Emails](viral-email-setup.html) that will provide one-click affiliate sign-up or one-click social sharing.
+to create viral emails that will provide one-click affiliate sign-up or one-click social sharing. See our page on
+[Email Follow Up](lead-follow-up-email-software.html) for more information.
 
 ### Managing and Paying Your Affiliates
 
