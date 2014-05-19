@@ -21,9 +21,9 @@ To integrate Squarespace and LeadDyno, you will need to add a bit of code to you
 #### Footer Code
 
 First you will need to add the LeadDyno tracking code to every page.  To do this, add your tracking code
-from this page
+from this page:
 
-https://app.leaddyno.com/tools
+[https://app.leaddyno.com/tools](https://app.leaddyno.com/tools)
 
 To the section entitled **Footer**:
 
