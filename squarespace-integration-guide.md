@@ -39,6 +39,8 @@ The next step is to add the following code to the **Order Confirmation Page**:
                                purchase_amount:{orderSubtotal}});
 
 
+Where your public key (from the code above) is substituted for `YOUR_PUBLIC_KEY` above.
+
 ![Squarespace Setup](/img/squarespace-order-confirm.png)
 
 ### Enabling AutoApprove (Optional)
