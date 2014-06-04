@@ -25,7 +25,8 @@ This guide consists of several parts:
 ### Enable LeadDyno tracking in your Bigcommerce store ###
 
 The LeadDyno tracking integration makes use of the built in 'Google Analytics' tracking setting of Bigcommerce. To
-enable it, select the **Analytics** menu option from within the **Apps** menu.
+enable it, login to your Bigcommerce control panel, select the **Setup & Tools** menu, then under **Set up your store**
+choose the **Web analytics** option..
 
 ![Bigcommerce Analytics Setting](/img/bc_guide_analytics.png)
 

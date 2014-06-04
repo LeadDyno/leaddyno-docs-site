@@ -1,14 +1,14 @@
 ---
 layout: guide
-title: "Bigcommerce Integration Guide with LeadDyno, The Affiliate Tracking Software & Online Marketing System"
-nav: guide > bigcommerce-integration-guide
+title: "Bigcommerce One Click Integration Guide with LeadDyno, The Affiliate Tracking Software & Online Marketing System"
+nav: guide > bigcommerce-singleclick-integration-guide
 ---
 
 ## Bigcommerce Integration Guide
 
 ### Introduction
 
-LeadDyno offers an integration with Bigcommerce, making it incredibly easy to get an affiliate program going for
+LeadDyno offers an integration with the new Bigcommerce "Single Click" system, making it incredibly easy to get an affiliate program going for
 your Bigcommerce store. After completing this guide, your LeadDyno account will be setup so that you will have complete
 visibility into your store's visitors, leads and purchases, including crediting affiliates for traffic in which they
 send to your store.
@@ -18,13 +18,23 @@ This allows affiliates to pass around their affiliate code via offline means and
 
 This guide consists of several parts:
 
-* Instructions on how to add the LeadDyn tracking code to your Bigcommerce store
 * Adding the LeadDyno Bigcommerce Single Click App
+* Instructions on how to add the LeadDyn tracking code to your Bigcommerce store
+* Setup Bigcommerce coupon settings (optional)
+
+
+
+### Adding the LeadDyno Bigcommerce Single Click App ###
+
+Navigate to the BigCommerce App Store and search for "LeadDyno". After finding the app, click the "Install" button
+and you will be prompted to grant LeadDyno permission to access parts of your Bigcommerce store.
+
 
 ### Enable LeadDyno tracking in your Bigcommerce store ###
 
 The LeadDyno tracking integration makes use of the built in 'Google Analytics' tracking setting of Bigcommerce. To
-enable it, select the **Analytics** menu option from within the **Apps** menu.
+enable it, login to your Bigcommerce control panel, select the **Setup & Tools** menu, then under **Set up your store**
+choose the **Web analytics** option.
 
 ![Bigcommerce Analytics Setting](/img/bc_guide_analytics.png)
 
@@ -37,7 +47,8 @@ A new tab will appear called **Google Analytics**. Click this tab.
 
 ![Bigcommerce Google Analytics](/img/bc_guide_analytics_click_google.png)
 
-Paste the following LeadDyno tracking javascript into the **Tracking Code** field:
+Paste the code given to you just after adding the LeadDyno app (or you can also use the following javascript)
+into the **Tracking Code** field:
 
 {% highlight html %}
 <script type="text/javascript" src="https://static.leaddyno.com/js"></script>
@@ -48,21 +59,20 @@ Paste the following LeadDyno tracking javascript into the **Tracking Code** fiel
  </script>
 {% endhighlight %}
 
-Replace the word **YOUR_PUBLIC_KEY** with your **public** API key found on the [LeadDyno Dashboard](https://app.leaddyno.com/settings/account).
+If you are not using the code given to you after adding the LeadDyno app, replace the word **YOUR_PUBLIC_KEY** with
+your **public** API key found on the [LeadDyno Dashboard](https://app.leaddyno.com/settings/account).
 
 ![Bigcommerce Tracking Code](/img/bc_guide_analytics_paste_and_save.png)
 
 After clicking Save, your Bigcommerce store will now have the tracking code on every page.
 
 
+### Setup Bigcommerce coupon settings ###
 
-### Adding the LeadDyno Bigcommerce Single Click App ###
+If you want to provide your affiliates a coupon code that will track sales back to them, you can now set that up.
 
-Navigate to the BigCommerce App Store and search for "LeadDyno". After finding the app, click the "Install" button
-and you will be prompted to grant LeadDyno permission to access parts of your Bigcommerce store.
-
-After adding the LeadDyno app to your Bigcommerce store, you can return to the [LeadDyno Integration Settings](https://app.leaddyno.com/settings/integrations/e-commerce) page where a new button called
-Manage Bigcommerce Discount Program will now appear. This is where you configure the default settings for new coupons that
+On the [LeadDyno Integration Settings](https://app.leaddyno.com/settings/integrations/e-commerce) page, there is a new button called
+Manage Bigcommerce Discount Program. This is where you configure the default settings for new coupons that
 LeadDyno creates for each affiliate.
 
 ![Bigcommerce Discount Settings](/img/bc_guide_ld_coupon_settings.png)
@@ -76,10 +86,6 @@ From this screen you can also manually run a synchronization between LeadDyno an
 a day automatically, but if you have a recent Bigcommerce sale that you need to show up immediately in LeadDyno as a
 purchase, you can manually start the job on this page.
 
-<div class="alert alert-info">
-  <strong>Note:</strong> LeadDyno only considers paid, completed and shipped orders as purchases, so they will not show up
-   as purchases in LeadDyno until those criteria are met.
-</div>
 
 
 ### Conclusion ###
