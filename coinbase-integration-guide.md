@@ -94,6 +94,8 @@ You will be prompted to allow LeadDyno access to your coinbase account.
 Now when you navigate to the [Pay Affiliate Commissions](https://app.leaddyno.com/affiliate_payments) page in the LeadDyno dashboard, you will see a new blue
 Coinbase button on each affiliate who is owed a commission. Click this button to pay the affiliate via coinbase.
 
+ ![Coinbase Affiliate Payment](/img/coinbase8.png)
+
 
 <div class="alert">
   <strong>Note</strong> Coinbase handles all conversion from BTC to your local currency. LeadDyno assumes
