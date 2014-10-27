@@ -69,7 +69,7 @@ Click **Update Configuration** and you are done configuring Recurly.
 ### Enable Recurly Integration with LeadDyno
 
 This section assumes the regular LeadDyno visitor tracking is already installed on your website. If not, see our
-[Installation Guide](/guide/installation.html) for details, and return here after it is installed.
+[Installation Guide](/installation.html) for details, and return here after it is installed.
 
 The integration with Recurly is very simple. All that needs to be done is to add a special parameter to any link to
 the Recurly hosted payment page at the end of the URL.
