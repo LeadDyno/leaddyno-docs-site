@@ -8,7 +8,7 @@ nav: guide > formstack-integration-guide
 
 ### Introduction
 
-LeadDyno integrates easily with Formstack forms.  Below are the easy steps to do so.
+LeadDyno affiliate tracking integrates easily with Formstack forms.  Below are the easy steps to do so.
 
 ### Copy Tracking Code From LeadDyno
 
