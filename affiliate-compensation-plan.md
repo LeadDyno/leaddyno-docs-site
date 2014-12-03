@@ -9,6 +9,10 @@ nav: guide > comp-plan
 In order to pay out your affiliates, you will need to define Comission Plans that specify how much an affiliate
 receives for each purchase that they refer.
 
+### Video Demonstration
+
+<iframe width="560" height="315" src="//www.youtube.com/embed/t5K105Mc3ME" frameborder="0">&nbsp;</iframe>
+
 ### Creating An Affiliate Commission Plan
 
 Click [Configure Commissions Plans](https://app.leaddyno.com/plans) located under the Affiliates Program menu, and
