@@ -5978,3 +5978,12 @@ footer .blog-feed li a {
 .spaced-list li {
   margin-top: 20px;
 }
+.docs-anchor {
+    display: block; 
+    position: relative; 
+    top: -250px; 
+    visibility: hidden;
+}
+.video figure { position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; }
+
+.video iframe, .video object, .video embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }

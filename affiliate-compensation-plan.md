@@ -12,15 +12,15 @@ receives for each purchase that they refer.
 ### Creating An Affiliate Commission Plan
 
 Click [Configure Commissions Plans](https://app.leaddyno.com/plans) located under the Affiliates Program menu, and
-click the 'New Commission Plan' button:
+click the 'Edit' button next to the default plan:
 
-![Affiliate Comp](/img/configure_commission_plans.png)
+![Affiliate Comp](/img/configure_commission_plan.png)
 
 ### Enter Plan Information
 
-Next you will need to enter some basic plan information:
+Next you may enter some basic plan information:
 
-![Affiliate Comp](/img/new_commission_plan.png)
+![Affiliate Comp](/img/new_commission_plans.png)
 
 #### Customization Options
 
@@ -42,9 +42,13 @@ affiliate program and wish to compensate affiliates in local amounts.
 
 The next step is to add commission payments to the plan.  LeadDyno offers very flexible payment configuration
 
-![Affiliate Comp](/img/add_affiliate_commission_payment.png)
+![Affiliate Comp](/img/add_affiliate_commission_payments.png)
 
 #### Payment Options
+
+##### Payment For
+
+LeadDyno allows you to choose between paying per purchase, lead, or visitor. 
 
 ##### Payment Type
 
@@ -70,7 +74,7 @@ payment over various months, so that if a cancellation occurs not all of the com
 If you choose to have it repeat monthly you can also enter how many months you'd like it to repeat (or leave it blank
 for a perpetual-until-cancellation payment)
 
-##### Applies To (Advanced)
+##### For Affiliate Type
 
 You may want to offer different commissions to different types of affiliates.  You can create payments that apply to
 specific affiliate types by selecting the affiliate type that a payment applies to.
