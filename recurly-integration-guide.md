@@ -39,17 +39,17 @@ See the following image for reference:
 ![Recurly Plan Settings](/img/recurly_guide_plan_info.png)
 
 
-#### Recurly Push Notifications
+#### Recurly Webhooks
 
 In order for LeadDyno to receive events about purchases made by your customers, you must configure a Recurly Push Notification
-to be sent to LeadDyno. This is done in Recurly by selecting **Push Notifications** in the left menu (located near the bottom-left
+to be sent to LeadDyno. This is done in Recurly by selecting **Webhooks** in the left menu (located near the bottom-left
 in the **Developer** section).
 
 You will be presented with the following screen:
 
-![Recurly Push Notifications](/img/recurly_guide_push_notifications.png)
+![Recurly Push Webhooks](/img/recurly_guide_webhooks.png)
 
-Click on the **Configure** button, and then in the Push Notification URL text field, put in the following:
+Click on the **Configure** button, and then in the Webhook URL text field, put in the following:
 
 <pre>
  https://collector.leaddyno.com/recurly_push_notification?key=YOUR_PRIVATE_KEY
@@ -61,7 +61,7 @@ Leave **HTTP Auth Username** and **HTTP Auth Password** fields blank.
 
 You should see something like the following:
 
-![Recurly Push Notifications Settings](/img/recurly_guide_push_settings.png)
+![Recurly Webhooks](/img/recurly_guide_webhooks_url.png)
 
 Click **Update Configuration** and you are done configuring Recurly.
 

@@ -15,7 +15,7 @@ for purchases made via Stripe.
 ### Install Lead Tracking Code
 
 The first step to enable the integration is to make sure that you are properly capturing lead sources through the 
-LeadDyno's [Lead Tracking](http://localhost:4000/installation.html#lead_tracking) functionality.  Stripe only provides
+LeadDyno's [Lead Tracking](installation.html#lead_tracking) functionality.  Stripe only provides
 purchase and cancellation information and so lead tracking must be configured as well.
 
 ### Enabling Stripe Integration
