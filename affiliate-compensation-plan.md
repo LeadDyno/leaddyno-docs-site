@@ -90,6 +90,6 @@ tier that the given payment applies to.
 
 ### Finishing Up
 
-When you are dong, you can click 'Done Creating Payments', and your Affiliate Commission Plan will be complete.
+When you are done, you can click 'Done Creating Payments', and your Affiliate Commission Plan will be complete.
 
 Note that you can edit the plan at any time.
