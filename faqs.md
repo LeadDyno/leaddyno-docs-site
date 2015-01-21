@@ -78,7 +78,7 @@ Affiliates have two main options of logging into their dashboards. On creation, 
 <a class="docs-anchor" id='affiliate_code'> </a>
 #### How can I change the affiliate code? 
 
-You have the ability to edit the code for each affiliate on the 'Manage Affiliate' page. Our codes must always start with a pound sign (#) and must then follow the pattern _[a letter]_[code]. For example: http://www.leaddyno.com/#_a_affiliatecode 
+You have the ability to edit the code for each affiliate on the 'Manage Affiliate' page. Our codes must always start with a pound sign (#) and must then follow the pattern _a letter_code. For example: http://www.leaddyno.com/#_a_affiliatecode 
 
 In addition, we allow you to choose to use query parameters instead of codes by selecting the corresponding setting on the [settings page](https://app.leaddyno.com/settings/account).
 
