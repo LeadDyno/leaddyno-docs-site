@@ -55,9 +55,3 @@ target for your online marketing efforts.
 The tracking information in the campaign link is encoded in the trailing hash.  You can change the URL before the hash
 to point to any destination you'd like.  So the above campaign link could be modified to `http://yoursite.com/special_offer#_l_3a`
 and will continue to track correctly.
-
-### Example Usage
-
-We have documents outlining how to use Tracking Campaigns for both
-[Email](/guide/online-marketing-software-email-tracking.html) and [AdWords](/guide/pay-per-click-tracking-software.html),
-both of which we use very effectively for LeadDyno itself.
