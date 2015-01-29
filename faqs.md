@@ -20,6 +20,7 @@ nav: guide > faqs
 * [How can my affiliates log in to their dashboard?](#affiliate_login)
 * [How can I change the affiliate code?](#affiliate_code)
 * [How can I change the affiliate link? ](#affilate_link)
+* [Can I use something other than # affiliate codes?](#query_parameters)
 
 
 ### Commissions
@@ -28,6 +29,7 @@ nav: guide > faqs
 * [What is a purchase?](#purchase)
 * [How do I create a commission plan?](#commission_plan)
 * [How do I create a multi-level-marketing scheme?](#mlm)
+* [Is shipping or taxes factored into our commissions?](#shipping)
 
 ### Installation
 <a class="docs-anchor" id='install'> </a>
@@ -87,6 +89,11 @@ In addition, we allow you to choose to use query parameters instead of codes by 
 
 You can change the affiliate link on the [settings page](https://app.leaddyno.com/settings/account) in the Site URL field.
 
+<a class="docs-anchor" id="query_parameters"> </a>
+#### Can I use something other than # (hashtag) affiliate codes?
+
+Yes, you may alternatively select to use query parameters to pass affiliate information along. To do so, select it from our [main settings page](https://app.leaddyno.com/settings/account).
+
 ### Commissions
 
 <a class="docs-anchor" id="visit"> </a>
@@ -114,4 +121,7 @@ Creating a commission plan can be done on your [configure commissions](https://a
 
 LeadDyno offers MLM support by allowing you to set up tiers and referring affiliates. See our [MLM documentation](mlm-setup.html) for further information.
 
+<a class="docs-anchor" id="shipping"> </a>
+#### Is shipping or taxes included in my commissions?
 
+With any of our one click integrations, it is not considered when factoring a commission or showing prices. For example, if you sell something for $17.00 and shipping is $5.00, you will only ever see $17.00 in LeadDyno. For custom integrations and Infusionsoft, we take the whole purchase with shipping and taxes.
