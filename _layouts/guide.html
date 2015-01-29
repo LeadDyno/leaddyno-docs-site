@@ -2,6 +2,14 @@
 layout: default
 ---
 
+<script type="text/javascript">
+  $(document).ready(function() {
+      $(".guide-content img").each(function () {
+          $(this).replaceWith('<a class="fancybox" href="'+$(this).attr('src')+'">'+$(this)[0].outerHTML +'</a>');
+      }).promise().done(function(){ $('.fancybox').fancybox(); });
+  });
+</script>
+
 <div class="container guide-container">
   <div class="row">
     <div class="span3">
