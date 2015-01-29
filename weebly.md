@@ -1,7 +1,7 @@
 ---
 layout: guide
 title: "Weebly Integration Guide with LeadDyno, The Affiliate Tracking Software & Online Marketing System"
-nav: guide > americommerce-integration-guide
+nav: guide > weebly
 ---
 
 ## Weebly Integration Guide
@@ -25,9 +25,9 @@ to your site.  After logging into your admin account, go to **Settings**, then s
       LeadDyno.autoWatch();
     </script>
 
-where YOUR_PUBLIC_KEY is replaced with your public LeadDyno API key.
+where YOUR_PUBLIC_KEY is replaced with your public LeadDyno API key. Not sure what your public API key is? You can find it on your [LeadDyno tools page](https://app.leaddyno.com/tools). 
 
-Follow the corresponding instructions for purchase tracking from our [installation page](installation.html). 
+Follow the corresponding instructions for purchase tracking from our [installation page](installation.html#purchase_tracking). 
 
 An installation using our Paypal integration is documented below: 
 
