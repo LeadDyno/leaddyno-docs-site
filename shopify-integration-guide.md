@@ -39,6 +39,11 @@ And **that's it**!
 
 You can disconnect LeadDyno from your Shopify shop by clicking the **Disconnect from Shopify** button.
 
+<a class="docs-anchor" id="coupon"> </a>
+### Coupon Code Integration
+
+In order to track affiliates by coupon code with Shopify, you simply create coupon codes manually in Shopify and assign the exact coupon codes to the corresponding affiliate in the 'Edit Affiliate' page. 
+
 ### Conclusion
 
 At this point your Shopify shop will be fully integrated with LeadDyno, which will track the source of all incoming leads,

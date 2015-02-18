@@ -21,6 +21,7 @@ nav: guide > faqs
 * [How can I change the affiliate code?](#affiliate_code)
 * [How can I change the affiliate link? ](#affilate_link)
 * [Can I use something other than # affiliate codes?](#query_parameters)
+* [Can I use discount codes to track affiliates?](#discount_codes)
 
 
 ### Commissions
@@ -93,6 +94,14 @@ You can change the affiliate link on the [settings page](https://app.leaddyno.co
 #### Can I use something other than # (hashtag) affiliate codes?
 
 Yes, you may alternatively select to use query parameters to pass affiliate information along. To do so, select it from our [main settings page](https://app.leaddyno.com/settings/account).
+
+<a class="docs-anchor" id="discount_codes"> </a>
+#### Can I use discount codes to track affiliates?
+
+For [Shopify](shopify-integration-guide.html) and [BigCommerce](bigcommerce-singleclick-integration-guide.html) integrations, we offer the option of discount code tracking. 
+
+For BigCommerce reference the [coupon code setup](bigcommerce-singleclick-integration-guide.html#coupon) from our documentation. For Shopify customers, reference the [manual coupon code setup guide](shopify-integration-guide.html#coupon). 
+
 
 ### Commissions
 
