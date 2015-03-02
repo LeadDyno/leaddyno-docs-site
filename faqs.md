@@ -14,6 +14,7 @@ nav: guide > faqs
 * [How do I get the javascript to inject in my site?](#js_inject)
 * [How do I install LeadDyno on multiple websites?](#multisite)
 * [How do I test our LeadDyno installation?](#testing)
+* [Can I track recurring purchases with LeadDyno?](#recurring)
 * [Tracking isn't working on my site, what do I do?](#tracking)
 
 ### Affiliate Management
@@ -66,6 +67,16 @@ To install LeadDyno on multiple websites, simply use the javascript code across 
 #### How do I test our LeadDyno installation? 
 
 Testing LeadDyno can be done by using an affiliate link in an incognito window or private session and going through the site flow. Our [testing documentation](testing.html) provides a step by step overview of this process. 
+
+<a class="docs-anchor" id='recurring'> </a>
+#### Can I track recurring purchases with LeadDyno?
+
+With some payment integrations you can seamlessly track recurring payments and subscriptions. 
+
+[Recurly](http://www.recurly.com) provides purchase tracking for both its [hosted](recurly-integration-guide.html) and [non-hosted](recurly-non-hosted-integration-guide.html) options. [Chargify](http://www.chargify.com) has a similar setup with a simple [webhook integration](chargify-integration-guide.html). 
+
+Paypal allows setting up subscription tracking with our [Subscribe Now integration](paypal-integration-guide.html). Stripe will additionally allow automatic recurring purchase tracking with our [Stripe integration guide](stripe-integration-guide.html).
+
 
 <a class="docs-anchor" id='tracking'> </a>
 #### Tracking isn't working on my site, what do I do? 
