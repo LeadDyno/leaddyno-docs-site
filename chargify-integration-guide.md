@@ -18,8 +18,17 @@ The first step to enable the integration is to make sure that you are properly c
 LeadDyno's [Lead Tracking](/installation.html#lead_tracking) functionality.
 
 You can install this code either on your own payment/sign up form, or using
-[Chargify's Hosted Pages](https://chargify.com/blog/chargify-hosted-pages-overview/)
+[Chargify's Hosted Pages](https://chargify.com/blog/chargify-hosted-pages-overview/).
 
+**If using Chargiy's Hosted Pages**, include the code in the format as follows: 
+```
+jQuery.getScript( "https://static.leaddyno.com/js", function(){
+    LeadDyno.key = "YOUR PUBLIC KEY";
+    LeadDyno.recordVisit();
+    LeadDyno.autoWatch();
+})
+```
+Where **YOUR PUBLIC KEY** is the Public Key found on the [account settings page](https://app.leaddyno.com/settings/account).
 #### Chargify Webhook Configuration
 
 In order for LeadDyno to receive events about subscriptions made by your customers, you must configure a
