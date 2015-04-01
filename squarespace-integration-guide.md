@@ -34,7 +34,7 @@ To the section entitled **Footer**:
 The next step is to add the following code to the **Order Confirmation Page**:
 
       LeadDyno.key = "YOUR_PUBLIC_KEY";
-      LeadDyno.recordPurchase({customerEmailAddress},
+      LeadDyno.recordPurchase("{customerEmailAddress}",
                               {purchase_code:{orderId},
                                purchase_amount:{orderSubtotal}});
 
