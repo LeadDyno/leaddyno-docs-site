@@ -65,3 +65,6 @@ PLATFORMS
 DEPENDENCIES
   capistrano-s3
   jekyll
+
+BUNDLED WITH
+   1.10.4

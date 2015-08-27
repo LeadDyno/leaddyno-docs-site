@@ -33,10 +33,13 @@ To the section entitled **Footer**:
 
 The next step is to add the following code to the **Order Confirmation Page**:
 
+			<script type="text/"javascript" src="https://static.leaddyno.com/js"></script>
+			<script>
       LeadDyno.key = "YOUR_PUBLIC_KEY";
       LeadDyno.recordPurchase("{customerEmailAddress}",
                               {purchase_code:{orderId},
                                purchase_amount:{orderSubtotal}});
+			</script>
 
 
 Where your public key (from the code above) is substituted for `YOUR_PUBLIC_KEY` above.
