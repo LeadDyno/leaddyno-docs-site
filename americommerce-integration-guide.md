@@ -1,21 +1,21 @@
 ---
 layout: guide
-title: "Americommerce Integration Guide with LeadDyno, The Affiliate Tracking Software & Online Marketing System"
+title: "Spark Pay Integration Guide with LeadDyno, The Affiliate Tracking Software & Online Marketing System"
 nav: guide > americommerce-integration-guide
 ---
 
-## Americommerce Integration Guide
+## Spark Pay Integration Guide
 
 ### Introduction
 
-LeadDyno offers an integration with Americommerce, making it incredibly easy to get an affiliate program going for
-your Americommerce store. After completing this guide, your LeadDyno account will be setup so that you will have complete
+LeadDyno offers an integration with Spark Pay, making it incredibly easy to get an affiliate program going for
+your Spark Pay store. After completing this guide, your LeadDyno account will be setup so that you will have complete
 visibility into your store's visitors, leads and purchases, including crediting affiliates for traffic in which they
 send to your store.
 
-### Enable LeadDyno tracking in your Americommerce store ###
+### Enable LeadDyno tracking in your Spark Pay store ###
 
-To enable LeadDyno tracking code in your Americommerce Store, you will need to add two different javascript
+To enable LeadDyno tracking code in your Spark Pay Store, you will need to add two different javascript
 blocks to your site.  First, add the following on **All Pages**:
 
     <script type="text/javascript" src="https://static.leaddyno.com/js"></script>
@@ -44,4 +44,4 @@ If you wish to avoid approving every purchase, you can enable "AutoApprove" of p
 
 ### Conclusion ###
 
-At this point your Americommerce shop will be fully integrated with LeadDyno. Good luck selling!
+At this point your Spark Pay shop will be fully integrated with LeadDyno. Good luck selling!
