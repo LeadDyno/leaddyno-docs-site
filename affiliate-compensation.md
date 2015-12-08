@@ -6,7 +6,7 @@ nav: guide > affiliate-compensation
 
 ## Affiliate Compensation
 
-LeadDyno offers you the ability to pay your affiliates in a variety of ways. This guide will take you through paying an affiliate. Paying affiliates is done through the __Pay Affiliate Commissions__ page under __Affiliate Program__ as shown below.
+LeadDyno offers you the ability to pay your affiliates in a variety of ways. This guide will take you through paying an affiliate. Paying affiliates is done through the __Pay Affiliates__ option under the __Manage__ menu as shown below.
 
 ![Pay Affiliate Screen](/img/pay-affiliate.png)
 
@@ -32,7 +32,7 @@ __Note__: The affiliate's email is the same email Paypal will send payments to.
 
 ### Paying Affiliates through Dwolla
 
-LeadDyno offers the ability to pay affiliates through an integration with Dwolla. Simply go to __Manage Integrations__ under __Settings__ and select the __Payment Services Tab__ (as shown below), click __Connect to Dwolla__ and follow the instructions to integrate.
+LeadDyno offers the ability to pay affiliates through an integration with Dwolla. Simply go to __Integrations__ in the left side menu and select the __Payment Services Tab__ (as shown below), click __Connect to Dwolla__ and follow the instructions to integrate.
 
 ![Payment Services Page](/img/pay-services.png)
 

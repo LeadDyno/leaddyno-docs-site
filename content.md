@@ -140,10 +140,3 @@ have access to, you can mark them as "On Marketing Tab" and they will then appea
 
 ![content_list](/img/content_marketing_tab.png)
 
-You can reorder the items on your marketing tab by clicking the **Marketing Tab Content** button in the Content Library:
-
-![content_list](/img/content_marketing_tab_btn.png)
-
-And then reordering the rows by dragging them and then clicking **Save Order**:
-
-![content_list](/img/content_marketing_tab_reorder.png)

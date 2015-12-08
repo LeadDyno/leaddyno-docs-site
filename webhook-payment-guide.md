@@ -22,6 +22,9 @@ section of LeadDyno:
 
 ![Settings](/img/webhook-config.png)
 
+![Settings](/img/webhook-config2.png)
+
+
 ### Webhook Payment Button
 
 After saving a URL, you will see a new button in your payment UI:

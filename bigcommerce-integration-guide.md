@@ -106,6 +106,9 @@ LeadDyno creates for each affiliate.
 
 ![Bigcommerce Discount Settings](/img/bc_guide_ld_coupon_settings.png)
 
+![Bigcommerce Discount Settings Manage](/img/bc_guide_ld_coupon_settings2.png)
+
+
 On this page you can choose if the coupon should be a percentage or fixed amount, and if a minimum purchase is required
 for the coupon to work. These are just the default settings for coupons that are created when you assign a discount/affiliate
 code to an affiliate. You can always change individual coupon settings from within the Bigcommerce manage coupon tool

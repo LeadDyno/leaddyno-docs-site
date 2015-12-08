@@ -34,7 +34,7 @@ Typically this can all be done quickly by your web developers.
 ### Customizing Your Affiliate Home Page
 
 LeadDyno provides you with a custom Affiliate Home Page, which you can find on your
-[Account Page](https://app.leaddyno.com/settings/account).
+[Marketing Contents Page](https://app.leaddyno.com/marketing_contents).
 
 New affiliates can sign up from this page and existing affiliates can log in to their Affiliate Dashboard to monitor
 their progress and share their affiliate link.
