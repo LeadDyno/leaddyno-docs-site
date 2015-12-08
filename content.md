@@ -7,8 +7,7 @@ nav: guide > content
 ## Managing Marketing Content
 
 LeadDyno allows you to create and manage marketing content that can be used by your affiliates, as well as linked to
-directly from your own website.  You can manage your content by selecting the **Content Library** menu item under the
-**Affiliate Content** section:
+directly from your own website.  You can manage your content by selecting the **Content** menu item in the left side navigation section:
 
 ![content_list](/img/content_list.png)
 

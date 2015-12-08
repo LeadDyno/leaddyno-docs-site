@@ -15,7 +15,7 @@ and see exactly how many clicks, leads, conversions and cancellations you are ge
 
 ### Creating a Tracking Campaign
 
-To create a new Tracking Campaign, click the **Tracking Campaigns** link under **Marketing**.  Next click the
+To create a new Tracking Campaign, click the **Tracking** menu item in the left side navigation menu.  Next click the
 **Create New Tracking Campaign**
 
 Fill out the form and click **Save Campaign**

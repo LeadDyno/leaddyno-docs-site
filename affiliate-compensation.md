@@ -18,7 +18,7 @@ To do this, you simply select __Manual__ next to the corresponding commission fo
 
 #### Handling Erroneous Payments
 
-In the case that a commission is accidentally paid manually, you can simply create a Manual Commission from that Affiliate's page ("Manage Affiliates", then select affiliate email) and then follow the previous steps to pay again. 
+In the case that a commission is accidentally paid manually, you can simply create a Manual Commission from that Affiliate's page and then follow the previous steps to pay again.
 
 ![Manual Commission](/img/manual-comm.png)
 

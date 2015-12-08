@@ -20,8 +20,7 @@ more effectively, with less effort on your part.
 
 ### Configuring Emails
 
-Click the [**Automated Affiliate Emails**](https://app.leaddyno.com/affiliate_emails) sub-menue located under the
-Affiliate Contene menu to see all the supported affiliate emails
+Click the [**Automated Affiliate Emails**](https://app.leaddyno.com/affiliate_emails) item in the **Tools** menu to see all the supported affiliate emails
 
 ![automated-affiliate-emails](/img/automated-affiliate-emails.png)
 

@@ -20,7 +20,7 @@ Affiliate newsletters are sent via email to your affiliates.
 ### Creating An Affiliate Newsletter
 
 You can create a new Affiliate Newsletter by clicking the **New Affiliate Newsletter** button on the **Affiliate
-Newsletters** section within **Affiliate Content**.
+Newsletters** section within **Tools**.
 
 ![content_list](/img/newsletters_new.png)
 

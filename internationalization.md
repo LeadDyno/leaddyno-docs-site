@@ -18,7 +18,7 @@ This process is outlined below.
 ### Setting up a Custom CSS File
 
 The first step in customizing the text on your affiliate dashboard is to enable a custom CSS
-file.  To do so, go to **Configure Affiliate Website** within the **Affiliate Content** section
+file.  To do so, go to **Configure Affiliate Website** within the **Content** section
 and turn the **Custom CSS** option to **ON**.  Then enter a URL that LeadDyno can load the CSS
 file from.
 
