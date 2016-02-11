@@ -21,7 +21,7 @@ LeadDyno.
 #### Customization Options
 
 
-##### Enable Custom Header
+##### Enable Custom Headers
 
 By turning on **Enable Custom Header** you can change the content of the header of your Affiliate Dashboard by using
 the **Custom Header Content** editor.  This allows you to embed images, change the title of the Affiliate Home Page
