@@ -1,5 +1,5 @@
 name: LeadDyno - Affiliate Tracking Software - in Minutes
-pygments: true
+highlighter: rouge
 exclude:
   - config
   - Gemfile
