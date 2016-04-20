@@ -25,14 +25,6 @@ To access the link from your end, click the **Affiliates** tab on the left, and 
 
 *The URL to the affiliate's dashboard.*
 
-### Linking to and Embedding the Dashboard
-
-You can either send them the direct link yourself, or you can embed the entire Affiliate Dashboard, or a link to it, directly within your application. Visit **Affiliates - Dashboard** to see your customization and embedding options.
-
-![refer_us_app_embed](/img/refer_us_app_embed_ug2.png)
-
-*Example of an outbound link to the affiliate dashboard embedded within the user's account itself.*
-
 ### Affiliate Dashboard Tour
 
 However you allow your affiliates to access their dashboard - whether via a link to it on our site, an embedded version within your application, or a combination of the two - here's what they'll have access to when they log in.

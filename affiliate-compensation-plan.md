@@ -15,16 +15,10 @@ receives for each purchase that they refer.
 
 ### Creating An Affiliate Commission Plan
 
-Click [Configure Commissions Plans](https://app.leaddyno.com/plans) located under the Affiliates Program menu, and
-click the 'Edit' button next to the default plan:
+Click [Commissions](https://app.leaddyno.com/plans) located on the left side menu, and
+click the 'Add Payment' button under the default plan:
 
 ![Affiliate Comp](/img/configure_commission_plan.png)
-
-### Enter Plan Information
-
-Next you may enter some basic plan information:
-
-![Affiliate Comp](/img/new_commission_plans.png)
 
 #### Customization Options
 
@@ -87,6 +81,12 @@ specific affiliate types by selecting the affiliate type that a payment applies 
 
 If you are running a multi-tier affiliate program, you can set up payments to each tier using this drop down.  Pick the
 tier that the given payment applies to.
+
+### Enter Plan Information
+
+Next you may enter some basic plan information:
+
+![Affiliate Comp](/img/new_commission_plans.png)
 
 ### Finishing Up
 

@@ -13,10 +13,10 @@ affiliate program**.
 
 ### New Affiliate Setup
 
-To create a new affiliate, [click the **Create A New Affilaite** link](https://app.leaddyno.com/affiliates/new)
-in the left-hand navigation bar.
+To create a new affiliate, [click the **Affiliate** link](https://app.leaddyno.com/affiliates/new)
+in the Create drop down menu.
 
-![new-affiliate-link](/img/new-affiliate-link.png)
+![New Affiliate Creation](/img/new-affiliate-link.png)
 
 Fill in at least an email address for the affiliate.
 
@@ -81,12 +81,12 @@ This link will take the affiliate to their affiliate dashboard.  Here is an exam
 You can also click on this link to automatically log yourself in as the affiliate, so you can see what their dashboard
 looks like.
 
-### Defining Clicks, Leads, and Conversions
+### Defining Visitors, Leads, and Purchases
 
 Here's how we define these terms in LeadDyno:
-* A **Click** is a visitor that clicks from somewhere else on the web to your website. We track the original source of this click (ie. affiliate, pay-per-click ad, blog post)
+* A **Visitor** is a site visitor that clicks from somewhere else on the web to your website. We track the original source of this click (ie. affiliate, pay-per-click ad, blog post)
 * A **Lead** is someone who gives you their email address (ie. signs up for your free newsletter)
-* A **Conversion** is a lead who purchases your product.
+* A **Purchase** results from a lead who purchases your product.
 
 ![affiliate_clicks_leads_conv](/img/affiliate_clicks_leads_conv_ug1.jpg)
 

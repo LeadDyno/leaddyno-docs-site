@@ -69,6 +69,7 @@ inputs on your site for a lead email.  To enable this, simply add the following 
   LeadDyno.autoWatch();
 </pre>
 
+**removal_block**
 #### Watch
 
 If you are familiar with [jQuery](http://jquery.com/), you can use selectors to tell LeadDyno to
@@ -89,22 +90,21 @@ in your own client site event listeners (e.g. on a form.submit() event handler):
     });
 </pre>
 
+**end_removal_block**
+
 <a class="docs-anchor" id='purchase_tracking'> </a>
 
 ### Purchase Tracking
 
 Purchase tracking can be done in one of three ways:
 
-* Using a purchase tracking integration (e.g. [PayPal](paypal-integration-guide.html) or Stripe)
+* Using a purchase tracking integration (e.g. [PayPal](paypal-integration-guide.html) or [Stripe](stripe-integration-guide) )
 * Using the LeadDyno [REST API](http://developer.leaddyno.com/rest-api.html)
 * Using the LeadDyno javascript library
 
 #### Using Integrations
 
-If you are using a billing system that we integrate with, purchase tracking is very simple:
-
-* [Paypal Integration Guide](paypal-integration-guide.html)
-* [Recurly Integration Guide](recurly-integration-guide.html)
+If you are using a billing system that we integrate with, purchase tracking is very simple: a link to documentation for supported integrations is in the sidebar of every documentation page.
 
 #### The REST API
 
