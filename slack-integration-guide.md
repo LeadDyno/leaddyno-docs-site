@@ -8,7 +8,10 @@ nav: guide > slack-integration-guide
 
 ### Introduction
 
-The LeadDyno Slack app allows you to get LeadDyno activity posted to a Slack channel.
+LeadDyno is an affiliate tracking and referral marketing system which is simple to install via the many e-commerce integrations.
+For more informaiton about LeadDyno, visit the [LeadDyno Website](http://www.leaddyno.com)
+
+The LeadDyno Slack app allows you to get LeadDyno activity posted to a Slack channel such as new leads, purchases and affiliate signups.
 
 ### Connecting To Slack
 
@@ -16,7 +19,7 @@ First visit the **Online Tools** Tab of the Integrations section:
 
 ![Slack Setup](/img/connect_to_slack.png)
 
-Or click [Here](https://app.leaddyno.com/integrations/tools) if you already have a LeadDyno account.
+If you have a LeadDyno account, click [here](https://app.leaddyno.com/integrations/tools). If you are new to LeadDyno, you can signup [here](https://app.leaddyno.com/signup).
 
 then click **Connect**:
 
