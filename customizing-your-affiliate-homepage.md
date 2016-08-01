@@ -49,16 +49,11 @@ By enabling **IFrame Mode** your affiliate home page (and affiliate's dashboards
 navigational elements, allowing you to embed the site via an iframe in your own website.  Note that, if you do this,
 you will be responsible for providing navigational elements to secondary pages, like Affiliate Newsletters.
 
-----
 
 ## Customizing Your Affiliate's Dashboard
 
 You can also customize the [Affiliate Dashboard](affiliate-dashboard.html) your affiliates will see, on the
 [Configure Affiliate Dashboard](https://app.leaddyno.com/content/dashboard_customization) page within LeadDyno
-
-![affiliate_dashboard_customization](/img/dashboard_customization_1.png)
-
-----
 
 #### Customization Options
 
