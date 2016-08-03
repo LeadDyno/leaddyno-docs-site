@@ -49,7 +49,7 @@ app.leaddyno.com.                    43192   IN      CNAME   < LEADDYNO-SERVER >
 
 #### Change LeadDyno Configuration
 After setting up the `CNAME` record with your provider, go to the [LeadDyno Dashboard](https://app.leaddyno.com)
- and then select **Content** -> **Configure Affiliate Dashboard** and in the **Addtional Settings** section,
- type in your custom domain name without the leading `http://`.
+ and then select **Content** -> **Configure Affiliate Dashboard** and in the **Settings** section,
+ type in your custom domain name without the leading `http://` into the **Custom Domain** box.
 
  Your custom domain name should now be ready to use at `http://affiliates.yourdomain.com`.
