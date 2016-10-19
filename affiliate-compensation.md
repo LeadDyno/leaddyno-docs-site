@@ -30,6 +30,14 @@ To do so, simply select the __Paypal__ button next to the affiliate's commission
 
 __Note__: The affiliate's email is the same email Paypal will send payments to. 
 
+### Paying Affiliates through Paypal Mass Payments
+
+LeadDyno offers support of paying multiple affiliates simultaneously through Paypal Mass Payments.
+
+To enable Mass Payments, simply submit the form on the [Payment Integrations Page](https://app.leaddyno.com/integrations/payment). Once submitted, you should be able to select multiple affiliates on the Commissions page and click 'Actions', then 'Pay via Paypal Mass Pay'.
+
+
+
 ### Paying Affiliates through Dwolla
 
 LeadDyno offers the ability to pay affiliates through an integration with Dwolla. Simply go to __Integrations__ in the left side menu and select the __Payment Services Tab__ (as shown below), click __Connect to Dwolla__ and follow the instructions to integrate.
