@@ -7,6 +7,7 @@ nav: guide > tools
 ## Affiliate Tools
 
 <a class="docs-anchor" id='affiliate_form'> </a>
+
 ### Affiliate Sign Up Form
 
 If you'd like to enable anyone to join your affiliate program, you can use this form:
@@ -35,6 +36,7 @@ Which will render like so:
 </div>
 
 <a class="docs-anchor" id='affiliate_link'>&nbsp;</a>
+
 ### Affiliate Link/Button
 
 If you have a users email (for example, if they are signed in on your site, or have just made a purchase,
@@ -48,4 +50,3 @@ you can render a link, rather than a form, to join your affiliate program:
 
 Note that you will need to URL escape the email address of the user, and that you can style the link
 however you'd like
-

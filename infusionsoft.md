@@ -18,14 +18,16 @@ send to your store.
 To enable LeadDyno tracking code in Infusionsoft, you will need to add our javascript
 to your site.  After logging into your admin account, go to **E-Commerce Setup**, then select the theme you want to add the code to, on the next page select **Edit** next to the theme name, select the **HTML Areas** tab, and insert the following Javascript in the **Custom Header** section:
 
+{% highlight html %}
     <script type="text/javascript" src="https://static.leaddyno.com/js"></script>
     <script>
       LeadDyno.key = "YOUR_PUBLIC_KEY";
       LeadDyno.recordVisit();
       LeadDyno.autoWatch();
     </script>
+{% endhighlight %}
 
-where YOUR_PUBLIC_KEY is replaced with your public LeadDyno API key. Not sure what your public API key is? You can find it on your [LeadDyno tools page](https://app.leaddyno.com/tools). 
+where YOUR_PUBLIC_KEY is replaced with your public LeadDyno API key. Not sure what your public API key is? You can find it on your [LeadDyno tools page](https://app.leaddyno.com/tools).
 
 ![Infusionsoft Code Insertion](/img/infusionsoft_code.png)
 
@@ -35,7 +37,7 @@ Setting up Purchase Tracking with Infusionsoft is done within our app. All you n
 
 With that information inserted into the form, click **Test Connection**. If everything is correct, it will respond with "Connection Successful".
 
-Now check **Sync Leads** and **Sync Purchases**, if you'd like to begin tracking purchases and leads. Once done, click **Sync Purchases Now** to sync previous purchases into LeadDyno. 
+Now check **Sync Leads** and **Sync Purchases**, if you'd like to begin tracking purchases and leads. Once done, click **Sync Purchases Now** to sync previous purchases into LeadDyno.
 
 **NOTE:** If you have enabled auto affiliate invitation emails before syncing purchases, LeadDyno will email all of your past purchases with invitations to join your affiliate program! To prevent this, disable [automated affiliate invitations](https://app.leaddyno.com/affiliate_emails/viral).
 
@@ -44,4 +46,4 @@ Now check **Sync Leads** and **Sync Purchases**, if you'd like to begin tracking
 ![Infusionsoft Integration](/img/infusionsoft_integration2.png)
 ### Conclusion ###
 
-At this point your Infusionsoft site will be fully integrated with LeadDyno. 
+At this point your Infusionsoft site will be fully integrated with LeadDyno.
