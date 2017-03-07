@@ -68,7 +68,7 @@ After clicking Save, your Bigcommerce store will now have the tracking code on e
 
 <a class="docs-anchor" id="coupon"> </a>
 
-### Setup Bigcommerce coupon settings ###
+### Setup Bigcommerce Coupon Settings ###
 
 If you want to provide your affiliates a coupon code that will track sales back to them, you can now set that up.
 
