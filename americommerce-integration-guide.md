@@ -18,20 +18,24 @@ send to your store.
 To enable LeadDyno tracking code in your Spark Pay Store, you will need to add two different javascript
 blocks to your site.  First, add the following on **All Pages**:
 
+{% highlight html %}
     <script type="text/javascript" src="https://static.leaddyno.com/js"></script>
     <script>
       LeadDyno.key = "YOUR_PUBLIC_KEY";
       LeadDyno.recordVisit();
       LeadDyno.autoWatch();
     </script>
+{% endhighlight %}
 
 where YOUR_PUBLIC_KEY is replaced with your public LeadDyno API key.
 
 Next, add this script to your **Thank You** page, **after the code above**:
 
-    <script>
+<pre class="prettyprint">
+    &lt;script
       LeadDyno.recordPurchase({purchase_code: ##ORDERID##, purchase_amount: ##ORDERSUBTOTAL##);
-    </script>
+    &lt;/script>
+</pre>
 
 This will capture purchase information.
 

@@ -7,6 +7,7 @@ nav: guide > installation
 ## Installing LeadDyno
 
 <a name="acct"> </a>
+
 ### Pre-Installation: Account Setup
 
 Before installing LeadDyno, you must sign up for an account [here](https://app.leaddyno.com/users/sign_up)
@@ -30,19 +31,21 @@ This guide will help you through each step.
 </div>
 
 <a class="docs-anchor" id='visitor_tracking'> </a>
+
 ### Visitor Tracking
 
 To get visitor tracking going, add the following code each page on your site:
 
-<pre class="prettyprint">
-&lt;script type="text/javascript" src="https://static.leaddyno.com/js">&lt;/script>
-&lt;script>
+{% highlight html %}
+<script type="text/javascript" src="https://static.leaddyno.com/js"></script>
+<script>
   // If you use multiple sub-domains, set the root domain here
   // LeadDyno.domain = "yourdomain.com";
   LeadDyno.key = "<span class="pub-key-rep">YOUR_PUBLIC_KEY</span>";
   LeadDyno.recordVisit();
-&lt;/script>
-</pre>
+</script>
+{% endhighlight %}
+
 
 <p class="pub-key-inst">
   Where "YOUR_PUBLIC_KEY" is replaced with the public key from your user page above.
@@ -65,32 +68,31 @@ The next step is to capture the email address of your visitors.  There are a few
 The easiest way to track leads is to call `autoWatch()`, which will automatically watch all
 inputs on your site for a lead email.  To enable this, simply add the following code:
 
-<pre class="prettyprint">
+{% highlight html %}
   LeadDyno.autoWatch();
-</pre>
+{% endhighlight %}
 
-**removal_block**
+
 #### Watch
 
 If you are familiar with [jQuery](http://jquery.com/), you can use selectors to tell LeadDyno to
 watch particular inputs for a lead email:
 
-<pre class="prettyprint">
+{% highlight html %}
   LeadDyno.watch("#email"); // will watch fields with the ID 'email'
-</pre>
+{% endhighlight %}
 
 #### RecordLead
 
 If you want more control over when the lead email is captured, you can call the `recordLead()` function
 in your own client site event listeners (e.g. on a form.submit() event handler):
 
-<pre class="prettyprint">
+{% highlight html %}
   $('#my-form').submit(function(){
       LeadDyno.recordLead($("#email").val());
     });
-</pre>
+{% endhighlight %}
 
-**end_removal_block**
 
 <a class="docs-anchor" id='purchase_tracking'> </a>
 
@@ -243,4 +245,3 @@ and, to record cancellations, invoke the following javascript:
   via the <a href="https://app.leaddyno.com/purchases">Purchases</a> Page before they are credited to affiliates,
   in order to prevent fraudulent purchase activity.
 </div>
-
