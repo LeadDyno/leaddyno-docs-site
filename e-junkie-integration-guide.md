@@ -18,36 +18,38 @@ purchases made via Paypal purchases configured with E-Junkie.
 In order to track your affiliate sales, you must configure each E-Junkie product to pass PayPal purchase
 information through to LeadDyno.
 
-#### Step 1 - Set Up Your Product
+#### Step 1 - Add LeadDyno's Static JS Script to Your Application
 
-First you need to configure your new product or edit your existing product through E-Junkie:
+Add `<script type="text/javascript" src="https://static.leaddyno.com/js"></script>` to all pages of your application. For faster loading times, put this after any jQuery code.
 
-You will initially see a screen like this:
+#### Step 2 - Edit Your Products
+
+After logging in, go to Manage Products in the upper right corner, and then click View/Edit/Delete Products.
 
 ![Recurly Hosted Payment Pages Settings](/img/E-Junkie-Step-1.png)
 
-When you configure your product options, you must check the **Send Transaction Data to a URL** checkbox.
+#### Step 3 - Select Your Product
 
-When you are done configuring your product click **More Options** (if the product is new) or **Next** if you are editing
-an existing product.
+Select the product you want to edit. Click View/Edit Product.
 
-#### Step 2 - Integrate Your Product With LeadDyno
+#### Step 4 - Integrate Your Product with LeadDyno
 
-In the second step you will need to fill out the field labeled **Payment Variable Information URL**
+On your product details page, check the box for Custom/Third-Party Integration.
 
-![Recurly Hosted Payment Pages Settings](/img/E-Junkie-Step-2.png)
+Then, fill out the field titled Product Notification URL. This should be set to
 
-This should be set to
-
-    https://collector.leaddyno.com/paypal_ipn?key=YOUR_PRIVATE_KEY
+  `https://collector.leaddyno.com/paypal_ipn?key=YOUR_PRIVATE_KEY`
 
 where **YOUR_PRIVATE_KEY** is replaced with your LeadDyno Private Key, available here:
 
 [https://app.leaddyno.com/settings/account](https://app.leaddyno.com/settings/account)
 
-When you are done, click the **Next** button, then the **Submit** button.
+Repeat this step with all your products.
 
-#### Step 3 - Include LeadDyno Tracking Info In Your Product Link
+![Recurly Hosted Payment Pages Settings](/img/E-Junkie-Step-2.png)
+
+
+#### Step 5 - Include LeadDyno Tracking Info In Your Product Link
 
 The final step is to pass LeadDyno's tracking information through to E-Junkie.
 

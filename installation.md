@@ -41,7 +41,7 @@ To get visitor tracking going, add the following code each page on your site:
 <script>
   // If you use multiple sub-domains, set the root domain here
   // LeadDyno.domain = "yourdomain.com";
-  LeadDyno.key = "<span class="pub-key-rep">YOUR_PUBLIC_KEY</span>";
+  LeadDyno.key = "YOUR_PUBLIC_KEY"
   LeadDyno.recordVisit();
 </script>
 {% endhighlight %}

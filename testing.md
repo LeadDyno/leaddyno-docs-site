@@ -71,3 +71,8 @@ via your installation.
 That's it!  You can now test as many affiliate (and [Tracking Campaign](tracking-campaigns.html)) links as you'd like.
 Just be sure to use a **New Incognito Session** (that is, close all existing Incognito windows and reopen a fresh one)
 for each link you wish to test.
+
+
+### Note on Purchase Testing
+
+When making a test purchase, do not use an email address that you use to receive payments for your business or that you've registered your LeadDyno account with. The application will not recognize this as a commissionable transaction. 
