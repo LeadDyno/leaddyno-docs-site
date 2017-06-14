@@ -8,13 +8,13 @@ nav: guide > stripe-integration-guide
 
 ### Introduction
 
-This guide explains how to integrate Strip purchases and subscription into LeadDyno. The integration
-between Stripe and LeadDyno allows automated tracking of lead conversion, cancellation and affiliate compensation 
+This guide explains how to integrate Stripe purchases and subscription into LeadDyno. The integration
+between Stripe and LeadDyno allows automated tracking of lead conversion, cancellation and affiliate compensation
 for purchases made via Stripe.
 
 ### Install Lead Tracking Code
 
-The first step to enable the integration is to make sure that you are properly capturing lead sources through the 
+The first step to enable the integration is to make sure that you are properly capturing lead sources through the
 LeadDyno's [Lead Tracking](installation.html#lead_tracking) functionality.  Stripe only provides
 purchase and cancellation information and so lead tracking must be configured as well.
 
@@ -49,5 +49,5 @@ You can disconnect LeadDyno from Stripe by clicking the **Disconnect from Stripe
 
 ### Conclusion
 
-LeadDyno is able to seamlessly integrate with Stripe. All Stripe transactions are automatically sent to LeadDyno to track conversions, 
+LeadDyno is able to seamlessly integrate with Stripe. All Stripe transactions are automatically sent to LeadDyno to track conversions,
 cancellations and related affiliate compensation.
