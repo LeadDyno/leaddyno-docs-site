@@ -12,7 +12,7 @@ This guide explains how to integrate Chargebee purchases into LeadDyno. The inte
 between Chargebee and LeadDyno allows automated tracking of lead conversion, cancellation and affiliate compensation
 for purchases made via Chargebee.
 
-### Install JavaScript on Client Site (with links to Chargebee):
+### Install JavaScript on Client Site
 
 The first step to enable the integration is to install the following code on your own website:
 
