@@ -33,19 +33,17 @@ and you will be prompted to grant LeadDyno permission to access parts of your Bi
 ### Enable LeadDyno tracking in your Bigcommerce store ###
 
 The LeadDyno tracking integration makes use of the built in 'Google Analytics' tracking setting of Bigcommerce. To
-enable it, login to your Bigcommerce control panel, select the **Setup & Tools** menu, then under **Set up your store**
-choose the **Web analytics** option.
+enable it, login to your Bigcommerce control panel, and select the **Advanced Settings** tab on the menu on the left side of the screen.
 
-![Bigcommerce Analytics Setting](/img/bc_guide_analytics.png)
+![Bigcommerce Analytics Setting](/img/bc_guide_mainpage.png)
 
+Under **Advanced Settings**,  choose the **Web Analytics** option.
 
 Next, check the **Google Analytics** option in the Providers box, and click Save.
 
-![Bigcommerce Providers](/img/bc_guide_analytics_enable_google.png)
+![Bigcommerce Providers](/img/bc_guide_google_and_analytics.png)
 
 A new tab will appear called **Google Analytics**. Click this tab.
-
-![Bigcommerce Google Analytics](/img/bc_guide_analytics_click_google.png)
 
 Paste the code given to you just after adding the LeadDyno app (or you can also use the following javascript)
 into the **Tracking Code** field:
@@ -62,7 +60,7 @@ into the **Tracking Code** field:
 If you are not using the code given to you after adding the LeadDyno app, replace the word **YOUR_PUBLIC_KEY** with
 your **public** API key found on the [LeadDyno Dashboard](https://app.leaddyno.com/settings/account).
 
-![Bigcommerce Tracking Code](/img/bc_guide_analytics_paste_and_save.png)
+![Bigcommerce Google Analytics](/img/bc_guide_tracking_code.png)
 
 After clicking Save, your Bigcommerce store will now have the tracking code on every page.
 
