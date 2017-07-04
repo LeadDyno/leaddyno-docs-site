@@ -10,7 +10,7 @@ Affiliates will not be your only source of online leads, of course, and LeadDyno
 tracking logic used for your affiliate program to other online channels, via **Tracking Campaigns**.
 
 You can create distinct tracking campaigns for your various online marketing channels (such as
-[Email](/guide/online-marketing-software-email-tracking.html) and [AdWords](/guide/pay-per-click-tracking-software.html))
+[Email](/online-marketing-software-email-tracking.html) and [AdWords](/pay-per-click-tracking-software.html))
 and see exactly how many clicks, leads, conversions and cancellations you are getting from each channel.
 
 ### Creating a Tracking Campaign
