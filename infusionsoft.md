@@ -44,6 +44,7 @@ Now check **Sync Leads** and **Sync Purchases**, if you'd like to begin tracking
 ![Infusionsoft Integration](/img/infusionsoft_integration.png)
 
 ![Infusionsoft Integration](/img/infusionsoft_integration2.png)
+
 ### Conclusion ###
 
 At this point your Infusionsoft site will be fully integrated with LeadDyno.
