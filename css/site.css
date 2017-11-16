@@ -3714,12 +3714,14 @@ input[type="submit"].btn.btn-mini {
   min-height: 40px;
   padding-left: 20px;
   padding-right: 20px;
-  background-color: #4dbba4;
+  background-color: red;
+/* 
   background-image: -moz-linear-gradient(top, #55c1ab, #41b29b);
   background-image: -webkit-gradient(linear, 0 0, 0 100%, from(#55c1ab), to(#41b29b));
   background-image: -webkit-linear-gradient(top, #55c1ab, #41b29b);
   background-image: -o-linear-gradient(top, #55c1ab, #41b29b);
   background-image: linear-gradient(to bottom, #55c1ab, #41b29b);
+ */
   background-repeat: repeat-x;
   filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#ff55c1ab', endColorstr='#ff41b29b', GradientType=0);
   border: 1px solid #3ba38e;
