@@ -12,6 +12,11 @@ developers can assist you and your team as you get LeadDyno dialed in for your w
 
 Below is an overview of what LeadDyno can do for you.
 
+<div class="support-section">
+<span class="text-large">Still have questions?</span><br>
+<a href="https://www.leaddyno.com/support/" class="button-ghost">Schedule a Call</a> or <a href="https://www.leaddyno.com/demo/" class="button-ghost">attend a demo</a>
+</div>
+
 ### Installation
 
 [Installation](installation.html) of LeadDyno typically involves a three steps:
