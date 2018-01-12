@@ -20,16 +20,16 @@ like
 To enable webhook payments, add a custom webhook URL in the **Payment Services** tab of the **Manage Integrations**
 section of LeadDyno:
 
-![Settings](/img/webhook-config.png)
+![Settings](img/webhook-config.png)
 
-![Settings](/img/webhook-config2.png)
+![Settings](img/webhook-config2.png)
 
 
 ### Webhook Payment Button
 
 After saving a URL, you will see a new button in your payment UI:
 
-![Settings](/img/webhook-btn.png)
+![Settings](img/webhook-btn.png)
 
 when this button is clicked, an HTTP POST will be made to the custom URL you entered with the following
 parameters:
@@ -42,7 +42,7 @@ parameters:
 
 Below is a RequestBin of a sample POST:
 
-![Settings](/img/webhook-sample-request.png)
+![Settings](img/webhook-sample-request.png)
 
 ### Conclusion
 

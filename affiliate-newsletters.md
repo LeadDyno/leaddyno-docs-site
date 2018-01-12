@@ -22,11 +22,11 @@ Affiliate newsletters are sent via email to your affiliates.
 You can create a new Affiliate Newsletter by clicking the **New Affiliate Newsletter** button on the **Affiliate
 Newsletters** section within **Tools**.
 
-![content_list](/img/newsletters_new.png)
+![content_list](img/newsletters_new.png)
 
 You will be taken to the Newsletter editor:
 
-![content_list](/img/newsletter_edit.png)
+![content_list](img/newsletter_edit.png)
 
 #### From
 
@@ -76,16 +76,16 @@ content directly from their newsletter.  Below are two examples of embedding con
 Create a new tweet, as outlined in the [marketing content](/guide/content.html).  On the information page for the
 tweet, click the **Copy Sharing URL** button:
 
-![content_list](/img/newsletter_tweet_embed1.png)
+![content_list](img/newsletter_tweet_embed1.png)
 
 Now, in your newsletter, create a link to that sharing URL by creating some text that explains the tweet and select
 that text, then click the **link** button and select **Insert Link**:
 
-![content_list](/img/newsletter_tweet_embed2.png)
+![content_list](img/newsletter_tweet_embed2.png)
 
 Now paste in the sharing URL that you copied and click **Insert**
 
-![content_list](/img/newsletter_tweet_embed3.png)
+![content_list](img/newsletter_tweet_embed3.png)
 
 Congratulations, you've now created an embedded one-click tweet in your newsletters!  When an affiliate clicks on the
 link they will be sent directly to twitter to publish the tweet.
@@ -97,21 +97,21 @@ case I recommend you open the information page for the banner in a new tab, beca
 
 First, you can copy the HTML for the banner by highlighting the banner in the **Body** section and hitting **CTRL-C**.
 
-![content_list](/img/newsletter_banner_embed2.png)
+![content_list](img/newsletter_banner_embed2.png)
 
 You can then switch to the tab you are composing your newsletter in and insert the banner by hitting **CTRL-V**
 
-![content_list](/img/newsletter_banner_embed1.png)
+![content_list](img/newsletter_banner_embed1.png)
 
 Now return to the banner tab and click **Copy Sharing URL**.  Switch back to the newsletter editor and add a
 descriptive link below the banner, using the copied sharing URL:
 
-![content_list](/img/newsletter_banner_embed3.png)
+![content_list](img/newsletter_banner_embed3.png)
 
 When your affiliate clicks on this link, they will be taken to a specialized version of the banner containing their
 tracking link:
 
-![content_list](/img/newsletter_banner_embed4.png)
+![content_list](img/newsletter_banner_embed4.png)
 
 which they can then copy and share.
 
@@ -121,7 +121,7 @@ After you have saved your newsletter, you will likely want to test the newslette
 sure that the formatting and content is all rendering correctly.  To do so click on the **Send Test** button, which
 will prompt you for an email to send a test version of the newsletter to.
 
-![content_list](/img/newsletter_send_test.png)
+![content_list](img/newsletter_send_test.png)
 
 Once you have verified that the newsletter appears the way that you'd like to to, you are ready to publish.
 
@@ -132,7 +132,7 @@ show a progress bar (as well as a cancel button).
 
 Congratulations, you've published your first affiliate newsletter!
 
-![content_list](/img/newsletter_publish.png)
+![content_list](img/newsletter_publish.png)
 
 ### Newsletter Archives
 
@@ -140,4 +140,4 @@ All newsletters that you create will be available on your affiliate dashboard un
 if an affiliate joins your program after you publish a newsletter, they will have an opportunity to read the newsletters
 and utilize the content in them:
 
-![content_list](/img/newsletters_archive.png)
+![content_list](img/newsletters_archive.png)

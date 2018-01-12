@@ -16,7 +16,7 @@ affiliate program going for your online Squarespace shop.
 To integrate Squarespace and LeadDyno, you will need to add a bit of code to your Squarespace site via
  the **Code Injection** Subsection of the **Settings** UI:
 
-![Squarespace Setup](/img/squarespace-code-injection.png)
+![Squarespace Setup](img/squarespace-code-injection.png)
 
 #### Footer Code
 
@@ -27,7 +27,7 @@ from this page:
 
 To the section entitled **Footer**:
 
-![Squarespace Setup](/img/squarespace-footer.png)
+![Squarespace Setup](img/squarespace-footer.png)
 
 #### Order Confirmation Page Code
 
@@ -44,7 +44,7 @@ The next step is to add the following code to the **Order Confirmation Page**:
 
 Where your public key (from the code above) is substituted for `YOUR_PUBLIC_KEY` above.
 
-![Squarespace Setup](/img/squarespace-order-confirm.png)
+![Squarespace Setup](img/squarespace-order-confirm.png)
 
 ### Enabling AutoApprove (Optional)
 
@@ -53,7 +53,7 @@ affiliate commissions are generated.  If you find this a hassle and want to simp
 purchases, you can enable "AutoApprove" of purchases by clicking the "AutoApprove" button on the purchase screen
 in LeadDyno:
 
-![Squarespace Autoapprove](/img/americommerce-autoapprove.png)
+![Squarespace Autoapprove](img/americommerce-autoapprove.png)
 
 ### Conclusion
 

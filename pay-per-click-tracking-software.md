@@ -15,7 +15,7 @@ to see which ad groups and PPC mediums are bringing you the highest quantity AND
 We recommend using a unique LeadDyno Tracking Campaign for each Ad Group you are running within Google Adwords.  Place the
 campaign link as the Actual URL for each ad that you create within the Ad Group.
 
-![Tracking](/img/Adwords-LeadDyno1.png)
+![Tracking](img/Adwords-LeadDyno1.png)
 
 The bottom field contains a LeadDyno tracking link for this ad.
 
@@ -29,7 +29,7 @@ Here’s an example of an Adwords campaign, compared with a banner ad campaign (
 third-highest amount of clicks – but it brought the most leads, and more conversions than the other three campaigns
 combined!
 
-![Tracking](/img/Adwords-Conversions.png)
+![Tracking](img/Adwords-Conversions.png)
 
 Our Google Adwords campaign (top row) trumps the following three when comparing leads, and especially conversions.
 
@@ -40,7 +40,7 @@ unique LeadDyno tracking link as the Actual URL for each ad within a distinct Ad
 
 Here’s an example of an Adsense / Content Network ad, with the LeadDyno tracking link located in the bottom field.
 
-![Tracking](/img/Adsense-Conversion-Tracking.png)
+![Tracking](img/Adsense-Conversion-Tracking.png)
 
 The bottom field contains a LeadDyno tracking link for this ad.
 

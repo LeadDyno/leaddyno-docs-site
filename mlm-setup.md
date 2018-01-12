@@ -19,20 +19,20 @@ LeadDyno supports Multi-Level affiliate programs with two tools:
 Configuring a multi-level commission plan is simple.  Let's say you have a basic commission plan that pays 10% out
 to an affiliate on any sale:
 
-![](/img/mlm-initial-plan.png)
+![](img/mlm-initial-plan.png)
 
 Now you want to make this a multi-level plan and pay an additional 5% to the affiliate who recuited this affiliate.
 
 Create a new plan payment, fill in the 5% commission and then click the **Hide/Show** button below the **Advanced Options**
 label:
 
-![](/img/mlm-parent-plan.png)
+![](img/mlm-parent-plan.png)
 
 Here you select the **Parent Affiliate** option.
 
 Click save, and your commission plan should look like this:
 
-![](/img/mlm-after-parent-plan.png)
+![](img/mlm-after-parent-plan.png)
 
 So you are set up to now pay 10% to the affiliate who drove the sale, and an additional 5% to the parent affiliate of
 that affiliate, if there is one.
@@ -47,7 +47,7 @@ If you set up a multi-level commission plan, you probably want to make it easy f
 To do so, head over to the [Dashboard Customization](https://app.leaddyno.com/content/dashboard_customization) section
 of LeadDyno, and select the **Invitations Tab**:
 
-![](/img/mlm-invite-ui.png)
+![](img/mlm-invite-ui.png)
 
 Slide the **Invite Other Affilaites Tab** to the **On** position.
 
@@ -70,7 +70,7 @@ Where you have substituted in your leaddyno domain.
 If you want to manually set the parent affiliate for a affiliate, simply edit the affiliate and enter the email
 of the parent affiliate:
 
-![](/img/mlm-explicit.png)
+![](img/mlm-explicit.png)
 
 ## That's It!
 

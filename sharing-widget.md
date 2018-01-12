@@ -15,7 +15,7 @@ LeadDyno’s Social Media [Sharing Widget](https://app.leaddyno.com/sharing_wid
 
 It works just like the social media sharing buttons you see on Amazon.com when you view or buy a product there:
 
-![Amazon](/img/Amazon-Sharing.png)
+![Amazon](img/Amazon-Sharing.png)
 
 When your website visitors click one of the sharing buttons, they will    automatically be logged into their account on that platform. And they’ll have a message ready to post for their friends and followers that is specific to your product.
 
@@ -27,7 +27,7 @@ The sharing links are tracked by LeadDyno’s affiliate tracking code. If the pe
 
 (And, coming soon – if the person is not yet a member of your affiliate program, they’ll be asked if they’d like to join at this time. So that they can also be compensated for any clicks or purchases that result from their “social share.”)
 
-![LD Sharing Widget](/img/Sharing-Stein.png)
+![LD Sharing Widget](img/Sharing-Stein.png)
 
 ## Installation
 
@@ -35,7 +35,7 @@ Installation involves configuring the [sharing widget code](https://app.leaddyno
 
 If you're using an e-commerce integration, this may involve editing a product page's theme template to include our sharing widget. 
 
-![Install](/img/Sharing-Configure.png)
+![Install](img/Sharing-Configure.png)
 
 ## Sharing Tracking
 

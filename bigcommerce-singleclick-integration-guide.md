@@ -35,13 +35,13 @@ and you will be prompted to grant LeadDyno permission to access parts of your Bi
 The LeadDyno tracking integration makes use of the built in 'Google Analytics' tracking setting of Bigcommerce. To
 enable it, login to your Bigcommerce control panel, and select the **Advanced Settings** tab on the menu on the left side of the screen.
 
-![Bigcommerce Analytics Setting](/img/bc_guide_mainpage.png)
+![Bigcommerce Analytics Setting](img/bc_guide_mainpage.png)
 
 Under **Advanced Settings**,  choose the **Web Analytics** option.
 
 Next, check the **Google Analytics** option in the Providers box, and click Save.
 
-![Bigcommerce Providers](/img/bc_guide_google_and_analytics.png)
+![Bigcommerce Providers](img/bc_guide_google_and_analytics.png)
 
 A new tab will appear called **Google Analytics**. Click this tab.
 
@@ -60,7 +60,7 @@ into the **Tracking Code** field:
 If you are not using the code given to you after adding the LeadDyno app, replace the word **YOUR_PUBLIC_KEY** with
 your **public** API key found on the [LeadDyno Dashboard](https://app.leaddyno.com/settings/account).
 
-![Bigcommerce Google Analytics](/img/bc_guide_tracking_code.png)
+![Bigcommerce Google Analytics](img/bc_guide_tracking_code.png)
 
 After clicking Save, your Bigcommerce store will now have the tracking code on every page.
 
@@ -74,9 +74,9 @@ On the [LeadDyno Integration Settings](https://app.leaddyno.com/settings/integra
 Manage Bigcommerce Discount Program. This is where you configure the default settings for new coupons that
 LeadDyno creates for each affiliate.
 
-![Bigcommerce Discount Settings](/img/bc_guide_ld_coupon_settings.png)
+![Bigcommerce Discount Settings](img/bc_guide_ld_coupon_settings.png)
 
-![Bigcommerce Discount Settings Manage](/img/bc_guide_ld_coupon_settings2.png)
+![Bigcommerce Discount Settings Manage](img/bc_guide_ld_coupon_settings2.png)
 
 
 On this page you can choose if the coupon should be a percentage or fixed amount, and if a minimum purchase is required

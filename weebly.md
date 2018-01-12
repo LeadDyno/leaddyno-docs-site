@@ -33,7 +33,7 @@ Follow the corresponding instructions for purchase tracking from our [installati
 
 An installation using our Paypal integration is documented below:
 
-![Weebly Integration](/img/weebly.png)
+![Weebly Integration](img/weebly.png)
 
 ### Conclusion ###
 

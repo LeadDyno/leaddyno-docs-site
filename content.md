@@ -9,7 +9,7 @@ nav: guide > content
 LeadDyno allows you to create and manage marketing content that can be used by your affiliates, as well as linked to
 directly from your own website.  You can manage your content by selecting the **Content** menu item in the left side navigation section:
 
-![content_list](/img/content_list.png)
+![content_list](img/content_list.png)
 
 Here you will see a list of content that you have created.  Each piece of content will have an icon indicating which
 channel the content is designed for:
@@ -24,7 +24,7 @@ channel the content is designed for:
 
 You can add content by selecting the content type from the "Add Content" button:
 
-![content_list](/img/content_add.png)
+![content_list](img/content_add.png)
 
 which will take you to the content editor, where you can compose your content.
 
@@ -32,7 +32,7 @@ which will take you to the content editor, where you can compose your content.
 
 The content editor lets you all aspects of the content:
 
-![content_list](/img/content_editor.png)
+![content_list](img/content_editor.png)
 
 #### Content Title
 
@@ -84,7 +84,7 @@ will become
 
 After content is created you will be taken to a detail page, which will show information about the content:
 
-![content_list](/img/content_show.png)
+![content_list](img/content_show.png)
 
 In particular, the content will be given a content URL, highlighted in the image above.  This URL can be used to
 link to the content from anywhere, including your own website, newsletters, etc.
@@ -94,31 +94,31 @@ link to the content from anywhere, including your own website, newsletters, etc.
 To create a banner for your affiliates, select **Add Banner/HTML Content** from the **Add Content** menu.  You will
 be taken to the editor:
 
-![content_list](/img/content_banner_1.png)
+![content_list](img/content_banner_1.png)
 
 Click on the **Insert Image** button in the editor, highlighted above.  This will bring up the image picker dialog:
 
-![content_list](/img/content_banner_2.png)
+![content_list](img/content_banner_2.png)
 
 Where you can pick an image from your local machine to upload, or point to an existing image on the internet:
 
-![content_list](/img/content_banner_3.png)
+![content_list](img/content_banner_3.png)
 
 Now you can click on the image, then click **Edit** and set a link for it:
 
-![content_list](/img/content_banner_4.png)
+![content_list](img/content_banner_4.png)
 
 Set the link to point to your website and click **Save**.  You are done creating your banner, now click **Save Content**.
 
 When an affiliate looks at this banner, they will see the content specialized for their affiliate content:
 
-![content_list](/img/content_banner_5.png)
+![content_list](img/content_banner_5.png)
 
 ### Primary Content
 
 Primary Content is the content that will be used when an affiliate clicks on the quick share buttons on their dashboard:
 
-![content_list](/img/content_primary.png)
+![content_list](img/content_primary.png)
 
 Content that you mark as "Primary" will be the content used for these links.  Only one piece of content per channel
 can be the primary content.
@@ -137,5 +137,5 @@ at `https://yourproduct.leaddyno.com` then the following URLs are linked to your
 You may have additional content such as banners, other tweets or facebook posts, etc. that you want your affiliates to
 have access to, you can mark them as "On Marketing Tab" and they will then appear on the marketing tab:
 
-![content_list](/img/content_marketing_tab.png)
+![content_list](img/content_marketing_tab.png)
 

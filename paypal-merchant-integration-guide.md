@@ -23,7 +23,7 @@ To integrate Paypal's Merchant Account functionality with LeadDyno, you must set
 [IPN](https://cms.paypal.com/uk/cgi-bin/?cmd=_render-content&content_ID=developer/e_howto_admin_IPNIntro) callback
 to LeadDyno.  This involves three steps, outlined below:
 
-![/img/paypal-merchant-config.png](/img/paypal-merchant-config.png)
+![/img/paypal-merchant-config.png](img/paypal-merchant-config.png)
 
 ##### Step 1
 
@@ -39,11 +39,11 @@ Click The **Update** link to the right of the the **Integrate PayPal payment not
 
 and then click **Choose IPN Settings**:
 
-![/img/paypal-choose-ipn.png](/img/paypal-choose-ipn.png)
+![/img/paypal-choose-ipn.png](img/paypal-choose-ipn.png)
 
 You will be taken to your IPN settings page
 
-![/img/paypal-update-ipn.png](/img/paypal-update-ipn.png)
+![/img/paypal-update-ipn.png](img/paypal-update-ipn.png)
 
 Set the **Notification URL** to:
 

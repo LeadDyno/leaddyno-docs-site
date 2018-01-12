@@ -28,16 +28,16 @@ The LeadDyno tracking integration makes use of the built in 'Google Analytics' t
 enable it, login to your Bigcommerce control panel, select the **Setup & Tools** menu, then under **Set up your store**
 choose the **Web analytics** option..
 
-![Bigcommerce Analytics Setting](/img/bc_guide_analytics.png)
+![Bigcommerce Analytics Setting](img/bc_guide_analytics.png)
 
 
 Next, check the **Google Analytics** option in the Providers box, and click Save.
 
-![Bigcommerce Providers](/img/bc_guide_analytics_enable_google.png)
+![Bigcommerce Providers](img/bc_guide_analytics_enable_google.png)
 
 A new tab will appear called **Google Analytics**. Click this tab.
 
-![Bigcommerce Google Analytics](/img/bc_guide_analytics_click_google.png)
+![Bigcommerce Google Analytics](img/bc_guide_analytics_click_google.png)
 
 Paste the following LeadDyno tracking javascript into the **Tracking Code** field:
 
@@ -52,7 +52,7 @@ Paste the following LeadDyno tracking javascript into the **Tracking Code** fiel
 
 Replace the word **YOUR_PUBLIC_KEY** with your **public** API key found on the [LeadDyno Dashboard](https://app.leaddyno.com/settings/account).
 
-![Bigcommerce Tracking Code](/img/bc_guide_analytics_paste_and_save.png)
+![Bigcommerce Tracking Code](img/bc_guide_analytics_paste_and_save.png)
 
 After clicking Save, your Bigcommerce store will now have the tracking code on every page.
 
@@ -66,18 +66,18 @@ purchases in LeadDyno, crediting the affiliate with the sale, if applicable.
 To create a new user in your Bigcommerce store, select the **Users** option in the top right navigation menu and click
 **Create a User Account**.
 
-![Bigcommerce Users](/img/bc_guide_create_user.png)
+![Bigcommerce Users](img/bc_guide_create_user.png)
 
 
 Fill in a Username, Password and Email address for the new user. We suggest using the username **apiuser**. The password
 and email can be anything, LeadDyno will not need these settings, just the username. Make sure the **User Role** for the new
 user is a **Store Administrator** so that the new user will have access to orders and coupons, which LeadDyno needs.
 
-![Bigcommerce User Settings](/img/bc_guide_create_user_settings.png)
+![Bigcommerce User Settings](img/bc_guide_create_user_settings.png)
 
 The important part is to turn on API access by checking the box next to **Enable the API** option.
 
-![Bigcommerce User API Settings](/img/bc_guide_enable_api.png)
+![Bigcommerce User API Settings](img/bc_guide_enable_api.png)
 
 Take note of the **API Path** and **API Token** settings that will appear. These will need to be copied into your LeadDyno
 settings, which is detailed in the next section. Make sure to click Save to save this new user.
@@ -89,7 +89,7 @@ settings, which is detailed in the next section. Make sure to click Save to save
 From within your [LeadDyno Dashboard](https://app.leaddyno.com), select the **Settings** menu from the left-hand naviation
 and click **Manage Integrations**, and then choose **E-Commerce Services** at the top.
 
-![LeadDyno E-Commerce Settings](/img/bc_guide_ld_settings.png)
+![LeadDyno E-Commerce Settings](img/bc_guide_ld_settings.png)
 
 
 Copy the values from your Bigcommerce store into the Bigcommerce settings. The **Store URL** is the **API Path** value
@@ -104,9 +104,9 @@ After the test connects successfully, click the blue Save Bigcommerce Connection
 Manage Bigcommerce Discount Program will appear. This is where you configure the default settings for new coupons that
 LeadDyno creates for each affiliate.
 
-![Bigcommerce Discount Settings](/img/bc_guide_ld_coupon_settings.png)
+![Bigcommerce Discount Settings](img/bc_guide_ld_coupon_settings.png)
 
-![Bigcommerce Discount Settings Manage](/img/bc_guide_ld_coupon_settings2.png)
+![Bigcommerce Discount Settings Manage](img/bc_guide_ld_coupon_settings2.png)
 
 
 On this page you can choose if the coupon should be a percentage or fixed amount, and if a minimum purchase is required

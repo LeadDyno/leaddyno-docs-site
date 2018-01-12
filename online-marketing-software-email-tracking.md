@@ -24,4 +24,4 @@ For example: www.yourdomain.com/blog#_l_3a will track traffic and send visitors 
 Here's an example of a sponsored email advertisement, with a call-to-action that is being tracked via LeadDyno.  The
 call-to-action at the end of the ad is hyperlinked to a LeadDyno campaign referral link.
 
-![Email Tracking](/img/email-call-to-action.png)
+![Email Tracking](img/email-call-to-action.png)

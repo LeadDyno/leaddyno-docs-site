@@ -14,13 +14,13 @@ scalable and automated manner.
 
 Click the **Lead Follow-up Emails** option located in the **Tools** menu to create a lead follow up email.
 
-![Settings](/img/Follow-Up-Email-System.png)
+![Settings](img/Follow-Up-Email-System.png)
 
 ### General Email Setup
 
 Click the **General Setup** tab all the way on the left to configure the basics.
 
-![Settings](/img/Lead-Follow-Up-Email-Settings.png)
+![Settings](img/Lead-Follow-Up-Email-Settings.png)
 
 The **Follow Up Sender Email** is the email address that will be in the "From" field of your emails. When readers hit Reply, their replies will be directed to this address.
 
@@ -32,7 +32,7 @@ Finally toggle the **Status** slider to **On**, and click **Save**.
 
 Send one, or a series of emails, to each new lead after sign up.  Select the **Add Registered Email** button to add an email to the registration follow up sequence.
 
-![Settings](/img/New-Lead-Follw-Up-Email-Sequence.png)
+![Settings](img/New-Lead-Follw-Up-Email-Sequence.png)
 
 For each email in the sequence, specify the number of days to wait before the email is sent.  To have an email sent immediately after registration, enter "0" for this value.
 
@@ -42,7 +42,7 @@ You can then compose the Subject Line and Body of your email using the editor pr
     
 Send one, or a series of emails, to each new customer upon conversion.  Select the **Add Conversion Email** button to add an email to the registration follow up sequence.
 
-![Settings](/img/Cancellation-Follow-Up-Email-Example.png)
+![Settings](img/Cancellation-Follow-Up-Email-Example.png)
 
 For each email in the sequence, specify the number of days to wait before the email is sent.  To have an email sent immediately after conversion, enter "0" for this value.
 
@@ -52,7 +52,7 @@ You can then compose the Subject Line and Body of your email using the editor pr
 
 Send one, or a series of emails, to each new customer upon cancellation.  Select the **Add Cancel Email** button to add an email to the cancellation follow up sequence.
 
-![Settings](/img/Sales-Follow-Up-Email-Sequence.png)
+![Settings](img/Sales-Follow-Up-Email-Sequence.png)
 
 For each email in the sequence, specify the number of days to wait before the email is sent.  To have an email sent immediately after cancellation, enter "0" for this value.
 
@@ -62,5 +62,5 @@ You can then compose the Subject Line and Body of your email using the editor pr
 
 Here's an example of a follow up email - it's the one we send to new prospects after they sign up for a free LeadDyno account.
 
-![Settings](/img/Follow-Up-Email-From-LeadDyno.png)
+![Settings](img/Follow-Up-Email-From-LeadDyno.png)
 

@@ -30,7 +30,7 @@ Below are the steps you can use to test LeadDyno, using Incognito Mode:
 First establish that no Incognito windows are currently open in Chrome.  Look for any existing Chrome windows
 with the Incognito Logo on them:
 
-![Incognito](/img/testing-existing-incognito-windows.png)
+![Incognito](img/testing-existing-incognito-windows.png)
 
 Close all such windows.
 
@@ -38,21 +38,21 @@ Close all such windows.
 
 Next, open a fresh Incognito Window:
 
-![Incognito](/img/testing-new-incognito-window-menu.png)
+![Incognito](img/testing-new-incognito-window-menu.png)
 
 This new window should have the Incognito logo in it:
 
-![Incognito](/img/testing-new-incognito-window-icon.png)
+![Incognito](img/testing-new-incognito-window-icon.png)
 
 #### Step 3) Copy And Paste In Affiliate Link
 
 Copy the affiliate link of the affiliate you would like to test:
 
-![Incognito](/img/testing-copy-link.png)
+![Incognito](img/testing-copy-link.png)
 
 And paste it into the new Incognito window:
 
-![Incognito](/img/testing-pasted-link.png)
+![Incognito](img/testing-pasted-link.png)
 
 Then hit enter.
 
@@ -61,7 +61,7 @@ Then hit enter.
 Return to LeadDyno and make a note of the affiliates visitor count.  Next, refresh the affiliates page.
 You should see the visitor count for the affiliate has incremented:
 
-![Incognito](/img/testing-visitor-updated.png)
+![Incognito](img/testing-visitor-updated.png)
 
 Continue through your registration/purchase process and ensure that LeadDyno is being sent Lead and Purchase information
 via your installation.

@@ -26,7 +26,7 @@ Add `<script type="text/javascript" src="https://static.leaddyno.com/js"></scrip
 
 After logging in, go to Manage Products in the upper right corner, and then click View/Edit/Delete Products.
 
-![Recurly Hosted Payment Pages Settings](/img/E-Junkie-Step-1.png)
+![Recurly Hosted Payment Pages Settings](img/E-Junkie-Step-1.png)
 
 #### Step 3 - Select Your Product
 
@@ -46,7 +46,7 @@ where **YOUR_PRIVATE_KEY** is replaced with your LeadDyno Private Key, available
 
 Repeat this step with all your products.
 
-![Recurly Hosted Payment Pages Settings](/img/E-Junkie-Step-2.png)
+![Recurly Hosted Payment Pages Settings](img/E-Junkie-Step-2.png)
 
 
 #### Step 5 - Include LeadDyno Tracking Info In Your Product Link

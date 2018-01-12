@@ -22,18 +22,18 @@ based on **Discount/Affiliate Codes**, not on affiliate links.
 
 First visit the **E-Commerce Services** Tab of the Integrations section:
 
-![Etsy Setup](/img/etsy_connect.png)
+![Etsy Setup](img/etsy_connect.png)
 
 Or click [Here](https://app.leaddyno.com/settings/integrations/e-commerce) if you already have a LeadDyno account.
 
 Next click on the **Connect To Etsy** button.  You will be taken to etsy:
 
-![Shopify Setup](/img/etsy_authorize.png)
+![Shopify Setup](img/etsy_authorize.png)
 
 Next click **Allow Access**, and you will be returned to LeadDyno, where you can configure your Affiliate Coupon
 template:
 
-![Shopify Setup](/img/etsy_config_1.png)
+![Shopify Setup](img/etsy_config_1.png)
 
 #### Configuring Your Affiliate Coupons
 
@@ -58,7 +58,7 @@ Once you have filled in your coupon template information, click the **Save Coupo
 
 To create a coupon code for an affiliate, create a unique affiliate code for your affiliate.:
 
-![Shopify Setup](/img/etsy_edit_code.png)
+![Shopify Setup](img/etsy_edit_code.png)
 
 <div class="alert alert-info">
   <strong>Note:</strong> Affiliate codes must be at least four characters long to be valid Etsy coupon codes.
@@ -67,18 +67,18 @@ To create a coupon code for an affiliate, create a unique affiliate code for you
 Next you will need to activate this affiliate code as a discount code in Etsy by clicking the **Activate Etsy Coupon**
 button:
 
-![Shopify Setup](/img/etsy_activate.png)
+![Shopify Setup](img/etsy_activate.png)
 
 If you ever decide to deactivate the affiliates coupon code, you can click the **Deactivate Etsy Coupon**
 
-![Shopify Setup](/img/etsy_deactivate.png)
+![Shopify Setup](img/etsy_deactivate.png)
 
 ### Configuring Or Disconnecting From Esty
 
 If you wish to disconnect from Etsy or adjust your Etsy configuration, you can return to
 the **E-Commerce Services** Tab of the Integrations section:
 
-![Shopify Setup](/img/etsy_disconnect.png)
+![Shopify Setup](img/etsy_disconnect.png)
 
 ### Purchase Synchronization
 
@@ -86,7 +86,7 @@ LeadDyno will sync with Etsy purchase information every four hours, so you may n
 
 You can sync immediately by clicking the **Sync Etsy Purchases Now** button in your Etsy configuration:
 
-![Shopify Setup](/img/etsy_sync.png)
+![Shopify Setup](img/etsy_sync.png)
 
 ### Conclusion
 

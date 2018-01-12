@@ -54,9 +54,9 @@ coinbase account to notify LeadDyno of purchases.
 
 From within your coinbase account, on the left menu select **Merchant**, then choose **Merchant Settings**.
 
-![Coinbase Merchant Menu](/img/coinbase1.png)
+![Coinbase Merchant Menu](img/coinbase1.png)
 
-![Coinbase Merchant Settings](/img/coinbase2.png)
+![Coinbase Merchant Settings](img/coinbase2.png)
 
 And then fill in the following URL into the **Callback URL** field and click Save Changes:
 
@@ -69,7 +69,7 @@ And then fill in the following URL into the **Callback URL** field and click Sav
 </p>
 
 
-![Coinbase Callback URL](/img/coinbase3.png)
+![Coinbase Callback URL](img/coinbase3.png)
 
 
 #### Generate Coinbase Buttons 
@@ -87,14 +87,14 @@ Any purchase that happens using the Coinbase provided widgets will be tracked by
 To pay affiliates using coinbase, navigate to the [LeadDyno Payment Integration Settings](https://app.leaddyno.com/settings/integrations/payment)
  page and select the **Connect to Coinbase** button.
  
- ![Coinbase Merchant Settings](/img/coinbase7.png)
+ ![Coinbase Merchant Settings](img/coinbase7.png)
 
 You will be prompted to allow LeadDyno access to your coinbase account.
 
 Now when you navigate to the [Pay Affiliate Commissions](https://app.leaddyno.com/affiliate_payments) page in the LeadDyno dashboard, you will see a new blue
 Coinbase button on each affiliate who is owed a commission. Click this button to pay the affiliate via coinbase.
 
- ![Coinbase Affiliate Payment](/img/coinbase8.png)
+ ![Coinbase Affiliate Payment](img/coinbase8.png)
 
 
 <div class="alert">

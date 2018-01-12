@@ -35,11 +35,11 @@ In order for LeadDyno to receive events about subscriptions made by your custome
 Chargify Webhook to be sent to LeadDyno. To do so, first go to the **Webhooks** secion under the **Settings**
 tab in Chargify and check the **Webhooks are enabled** checkbox:
 
-![Chargify Webhooks](/img/chargify_webhooks.png)
+![Chargify Webhooks](img/chargify_webhooks.png)
 
 next click **Add URL**
 
-![Chargify Webhooks](/img/chargify_webhooks_add.png)
+![Chargify Webhooks](img/chargify_webhooks_add.png)
 
 And enter the following URL:
 
@@ -51,11 +51,11 @@ Replace **YOUR_PRIVATE_KEY** with your private API key found on the [LeadDyno Da
 
 Finally, click **Configure**
 
-![Chargify Webhooks](/img/chargify_webhooks_config1.png)
+![Chargify Webhooks](img/chargify_webhooks_config1.png)
 
 and enable the **Payment Success** and **Subscription State Change** webhook events.
 
-![Chargify Webhooks](/img/chargify_webhooks_config2.png)
+![Chargify Webhooks](img/chargify_webhooks_config2.png)
 
 ### Conclusion
 

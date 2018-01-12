@@ -44,7 +44,7 @@ Note that purchases will be considered "pending" until you approve them on the L
 If you wish to avoid approving every purchase, you can enable "AutoApprove" of purchases by clicking
 "AutoApprove" on the purchase screen:
 
-![AmeriCommerce Autoapprove](/img/americommerce-autoapprove.png)
+![AmeriCommerce Autoapprove](img/americommerce-autoapprove.png)
 
 ### Conclusion ###
 

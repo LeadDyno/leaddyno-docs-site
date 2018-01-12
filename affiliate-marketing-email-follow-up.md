@@ -22,15 +22,15 @@ more effectively, with less effort on your part.
 
 Click the [**Automated Affiliate Emails**](https://app.leaddyno.com/affiliate_emails) item in the **Tools** menu to see all the supported affiliate emails
 
-![automated-affiliate-emails](/img/automated-affiliate-emails.png)
+![automated-affiliate-emails](img/automated-affiliate-emails.png)
 
 You can edit and enable or disable each email by clicking on the **Edit** button:
 
-![automated-affiliate-emails-detail](/img/automated-affiliate-emails-detail.png)
+![automated-affiliate-emails-detail](img/automated-affiliate-emails-detail.png)
 
 When editing an email, you can enable or disable the email, set the From email address and change the subject or body:
 
-![automated-affiliate-emails-edit](/img/automated-affiliate-emails-edit.png)
+![automated-affiliate-emails-edit](img/automated-affiliate-emails-edit.png)
 
 Each email has some template variables available in it that allows you to specialize the email for affiliates.  You can
 see the available variables by clicking the plus-icon next to the **Email Template Variables** label.
