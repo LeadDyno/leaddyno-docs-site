@@ -12,6 +12,10 @@ With PayPal MassPay you can pay out a large number of affiliates very easily and
 your PayPal account to be able to do automatic MassPay payments, but once it is setup, the process to pay out affiliates
 is very simple.
 
+<p class="alert alert-info">
+  <strong>Note:</strong> The PayPal Payouts/MassPay integration requires that you have a PayPal business account. Click <a href="https://developer.paypal.com/docs/integration/direct/payouts/#enable-payouts" target="_blank">Here</a> for more information.
+</p>
+
 ### Creating the PayPal Developer App
 
 #### Step 1
