@@ -107,7 +107,7 @@ successful email lists and abandon poor ones.
 #### CRM Integration
 
 LeadDyno integrates with common CRM applications as a lead generation front end, pushing lead source information into
-Salesforce, SugarCRM or InfusionSoft.  If you use other online marketing tools like MailChip, we've probably got an
+Salesforce, SugarCRM or InfusionSoft.  If you use other online marketing tools like MailChimp, we've probably got an
 integration for you as well.
 
 #### Lead Follow Up &amp; Drip Sequences
