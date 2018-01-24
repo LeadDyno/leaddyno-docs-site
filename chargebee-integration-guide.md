@@ -40,7 +40,7 @@ In Chargebee, simply visit the **Webhook Settings** page in the **Settings** sec
 
 It should look something like this:
 
-![Chargebee Webhook Settings](/img/chargebee.png)
+![Chargebee Webhook Settings](img/chargebee.png)
 
 And that's it!  
 

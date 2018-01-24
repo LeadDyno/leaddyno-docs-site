@@ -20,7 +20,7 @@ To create a new Tracking Campaign, click the **Tracking** menu item in the left 
 
 Fill out the form and click **Save Campaign**
 
-![Creating A Tracking Campaign](/img/tracking_campaign_form.png)
+![Creating A Tracking Campaign](img/tracking_campaign_form.png)
 
 ### Fields
 
@@ -41,7 +41,7 @@ to group all your (automatically generated) Affiliate Newsletter campaigns toget
 
 Once you've created a Tracking Campaign, you will be taken its dashboard:
 
-![Creating A Tracking Campaign](/img/tracking_campaign_show.png)
+![Creating A Tracking Campaign](img/tracking_campaign_show.png)
 
 where you can see the unique tracking link for the campaign.
 

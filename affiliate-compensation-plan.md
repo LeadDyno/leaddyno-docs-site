@@ -18,7 +18,7 @@ receives for each purchase that they refer.
 Click [Commissions](https://app.leaddyno.com/plans) located on the left side menu, and
 click the 'Add Payment' button under the default plan:
 
-![Affiliate Comp](/img/configure_commission_plan.png)
+![Affiliate Comp](img/configure_commission_plan.png)
 
 #### Customization Options
 
@@ -40,7 +40,7 @@ affiliate program and wish to compensate affiliates in local amounts.
 
 The next step is to add commission payments to the plan.  LeadDyno offers very flexible payment configuration
 
-![Affiliate Comp](/img/add_affiliate_commission_payments.png)
+![Affiliate Comp](img/add_affiliate_commission_payments.png)
 
 #### Payment Options
 
@@ -86,7 +86,7 @@ tier that the given payment applies to.
 
 Next you may enter some basic plan information:
 
-![Affiliate Comp](/img/new_commission_plans.png)
+![Affiliate Comp](img/new_commission_plans.png)
 
 ### Finishing Up
 

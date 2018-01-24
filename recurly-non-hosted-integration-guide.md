@@ -29,7 +29,7 @@ in the **Developer** section).
 
 You will be presented with the following screen:
 
-![Recurly Webhooks](/img/recurly_guide_webhooks.png)
+![Recurly Webhooks](img/recurly_guide_webhooks.png)
 
 Click on the **Configure** button, and then in the Webhook URL text field, put in the following:
 
@@ -43,7 +43,7 @@ Leave **HTTP Auth Username** and **HTTP Auth Password** fields blank.
 
 You should see something like the following:
 
-![Recurly Webhooks Settings](/img/recurly_guide_webhooks_url.png)
+![Recurly Webhooks Settings](img/recurly_guide_webhooks_url.png)
 
 Click **Update Configuration** and you are done configuring Recurly.
 

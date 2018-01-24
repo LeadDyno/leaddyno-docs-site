@@ -22,7 +22,7 @@ Review the other settings and adjust is necessary.
 See the following image for reference:
 
 
-![Recurly Hosted Payment Pages Settings](/img/recurly_guide_hosted_payment_settings.png)
+![Recurly Hosted Payment Pages Settings](img/recurly_guide_hosted_payment_settings.png)
 
 
 #### Recurly Plan Settings
@@ -36,7 +36,7 @@ to make a purchase.
 
 See the following image for reference:
 
-![Recurly Plan Settings](/img/recurly_guide_plan_info.png)
+![Recurly Plan Settings](img/recurly_guide_plan_info.png)
 
 
 #### Recurly Webhooks
@@ -47,7 +47,7 @@ in the **Developer** section).
 
 You will be presented with the following screen:
 
-![Recurly Push Webhooks](/img/recurly_guide_webhooks.png)
+![Recurly Push Webhooks](img/recurly_guide_webhooks.png)
 
 Click on the **Configure** button, and then in the Webhook URL text field, put in the following:
 
@@ -61,7 +61,7 @@ Leave **HTTP Auth Username** and **HTTP Auth Password** fields blank.
 
 You should see something like the following:
 
-![Recurly Webhooks](/img/recurly_guide_webhooks_url.png)
+![Recurly Webhooks](img/recurly_guide_webhooks_url.png)
 
 Click **Update Configuration** and you are done configuring Recurly.
 

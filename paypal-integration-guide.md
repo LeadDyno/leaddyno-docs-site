@@ -19,7 +19,7 @@ PayPal buttons are elements you put on your website that allow consumers to purc
 create the buttons, from the PayPal interface, put your mouse over **Profile** and select **My Selling Tools** from the drop down list.
 From there, select the **Update** link next to **PayPal Buttons** as seen in the image below.
 
-![PayPal Selling Tools](/img/pp_guide_create_buttons.png)
+![PayPal Selling Tools](img/pp_guide_create_buttons.png)
 
 
 From here, you will see the **My Buttons** page. To create a new button integrated with LeadDyno, select **Create New Button**
@@ -32,7 +32,7 @@ Subscription buttons allow your customers to subscribe to a recurring service an
 on the *Billing Cycle* you choose. In the image below, the button would charge the customer $50 every month forever until
 they login and cancel their subscription.
 
-![PayPal Subscription Button](/img/pp_guide_subscription_button.png)
+![PayPal Subscription Button](img/pp_guide_subscription_button.png)
 
 After selecting **Subscriptions** from the *Choose a button type* list, it will ask for an *Item name* and
 *Subscription ID*. In the Item name field, put the name of the service, and in Subscription ID, put in the LeadDyno
@@ -41,7 +41,7 @@ commission plan code. Below is an example LeadDyno commission plan. The **Code**
 the Default commission plan defined in LeadDyno.
 
 
-![LeadDyno Commission Plan](/img/pp_guide_leaddyno_commission_plan.png)
+![LeadDyno Commission Plan](img/pp_guide_leaddyno_commission_plan.png)
 
 
 In the example above, affiliates would be compensated $10 starting after the first month for any customers they bring
@@ -61,7 +61,7 @@ and an *Item ID* that matches a LeadDyno commission plan code. In the image belo
 an item named **My Widget** and associated to the LeadDyno commission plan **widget** that would give the referring affiliate
 either a fixed amount or some percentage of the sale.
 
-![PayPal Buy Now Button](/img/pp_guide_buynow_button.png)
+![PayPal Buy Now Button](img/pp_guide_buynow_button.png)
 
 ### Enable PayPal Integration with LeadDyno
 

@@ -29,7 +29,7 @@ to your site.  After logging into your admin account, go to **E-Commerce Setup**
 
 where YOUR_PUBLIC_KEY is replaced with your public LeadDyno API key. Not sure what your public API key is? You can find it on your [LeadDyno tools page](https://app.leaddyno.com/tools).
 
-![Infusionsoft Code Insertion](/img/infusionsoft_code.png)
+![Infusionsoft Code Insertion](img/infusionsoft_code.png)
 
 ### Set up Purchase Tracking ###
 
@@ -41,9 +41,9 @@ Now check **Sync Leads** and **Sync Purchases**, if you'd like to begin tracking
 
 **NOTE:** If you have enabled auto affiliate invitation emails before syncing purchases, LeadDyno will email all of your past purchases with invitations to join your affiliate program! To prevent this, disable [automated affiliate invitations](https://app.leaddyno.com/affiliate_emails/viral).
 
-![Infusionsoft Integration](/img/infusionsoft_integration.png)
+![Infusionsoft Integration](img/infusionsoft_integration.png)
 
-![Infusionsoft Integration](/img/infusionsoft_integration2.png)
+![Infusionsoft Integration](img/infusionsoft_integration2.png)
 
 ### Conclusion ###
 

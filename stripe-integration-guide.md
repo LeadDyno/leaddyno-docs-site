@@ -27,15 +27,15 @@ page in the **Integrations** section:
 
 And click the **Connect to Stripe** button:
 
-![Recurly Plan Settings](/img/stripe_connect.png)
+![Recurly Plan Settings](img/stripe_connect.png)
 
 Stripe will ask you to approve the connection.  Click **Connect my Stripe account**:
 
-![Recurly Plan Settings](/img/stripe_approve.png)
+![Recurly Plan Settings](img/stripe_approve.png)
 
 You will be redirected back to LeadDyno:
 
-![Recurly Plan Settings](/img/stripe_connected.png)
+![Recurly Plan Settings](img/stripe_connected.png)
 
 And you are finished!  
 
@@ -45,7 +45,7 @@ Stripe will now stream purchase and cancellation information to LeadDyno.
 
 You can disconnect LeadDyno from Stripe by clicking the **Disconnect from Stripe** button.
 
-![Recurly Plan Settings](/img/stripe_disconnect.png)
+![Recurly Plan Settings](img/stripe_disconnect.png)
 
 ### Conclusion
 

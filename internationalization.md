@@ -24,7 +24,7 @@ file from.
 
 **NOTE: This URL must be HTTPS, it cannot be HTTP, or browsers will refuse to load it!!**
 
-![](/img/i18n-css.png)
+![](img/i18n-css.png)
 
 After you have made this change, click **Save Website Customizations**.
 
@@ -36,14 +36,14 @@ and is being loaded.
 Once you have done this, locate the text that you wish to change on the affiliate dashboard.  As
 an example, we are going to change the **Home Page** tab name to "Your Dashboard":
 
-![](/img/i18n-example.png)
+![](img/i18n-example.png)
 
 In a browser like Chrome, right click on the element you wish to change and inspect the element
 to find the ID of the span surrounding it:
 
-![](/img/i18n-inspect-1.png)
+![](img/i18n-inspect-1.png)
 
-![](/img/i18n-inspect-2.png)
+![](img/i18n-inspect-2.png)
 
 In this case, the ID is <code>affiliate-nav-homepage</code>.
 
@@ -64,7 +64,7 @@ change it to.
 
 With this CSS set you, you should now be able to view the customization to your affiliate website:
 
-![](/img/i18n-complete.png)
+![](img/i18n-complete.png)
 
 ### Conclusion
 

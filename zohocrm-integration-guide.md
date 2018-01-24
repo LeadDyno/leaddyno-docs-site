@@ -26,14 +26,14 @@ To generate Auth Token in browser mode, do the following:
 * Click  (the Settings icon) > Setup > Extensions & APIs > APIs > CRM API.
 * Click the Settings icon and click the Authentication Token Generation link.
 
-![ZohoCRM Settings](/img/zohocrm1.png)
+![ZohoCRM Settings](img/zohocrm1.png)
 
 
 * Enter your Application Name as **LeadDyno**.
 
 
 
-![ZohoCRM Auth Token](/img/zohocrm2.png)
+![ZohoCRM Auth Token](img/zohocrm2.png)
 
 **Important**
 
@@ -57,7 +57,7 @@ RESULT=TRUE
 
 Visit the **CRM** Tab of the Integrations section:
 
-![ZohoCRM Setup](/img/zohocrm3.png)
+![ZohoCRM Setup](img/zohocrm3.png)
 
 If you have a LeadDyno account, click [here](https://app.leaddyno.com/integrations/tools). If you are new to LeadDyno, you can signup [here](https://app.leaddyno.com/signup).
 
@@ -65,11 +65,11 @@ then click **Connect**:
 
 Fill in your API Token using the value from the **AUTHTOKEN** created in the last section, and click **Connect**.
 
-![ZohoCRM Setup](/img/zohocrm4.png)
+![ZohoCRM Setup](img/zohocrm4.png)
 
 Your ZohoCRM connection should now be active. New leads will be automatically sent to your ZohoCRM account. The Lead Source
 will be set as **LeadDyno**.
 
-![ZohoCRM Setup](/img/zohocrm5.png)
+![ZohoCRM Setup](img/zohocrm5.png)
 
 You can disconnect LeadDyno from sending leads to your ZohoCRM account by clicking the **Disconnect** button.

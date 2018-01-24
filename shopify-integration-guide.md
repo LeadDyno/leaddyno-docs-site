@@ -15,25 +15,25 @@ your online Shopify shop.
 
 First visit the **E-Commerce Services** Tab of the Integrations section:
 
-![Shopify Setup](/img/connect_to_shopify.png)
+![Shopify Setup](img/connect_to_shopify.png)
 
 Or click [Here](https://app.leaddyno.com/settings/integrations/e-commerce) if you already have a LeadDyno account.
 
 Next fill in your Shopify shop name (e.g. 'yourshop.myshopify.com'):
 
-![Shopify Setup](/img/shopify_shop_name.png)
+![Shopify Setup](img/shopify_shop_name.png)
 
 then click **Connect to Shop**:
 
-![Shopify Setup](/img/shopify_connect.png)
+![Shopify Setup](img/shopify_connect.png)
 
 You will be asked to log into Shopify:
 
-![Shopify Setup](/img/shopify_login.png)
+![Shopify Setup](img/shopify_login.png)
 
 Once you log in, after a brief pause, you will be redirected back to LeadDyno, which should show you as connected:
 
-![Shopify Setup](/img/shopify_after_connect.png)
+![Shopify Setup](img/shopify_after_connect.png)
 
 And **that's it**!
 

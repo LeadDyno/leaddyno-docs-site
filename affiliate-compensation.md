@@ -8,7 +8,7 @@ nav: guide > affiliate-compensation
 
 LeadDyno offers you the ability to pay your affiliates in a variety of ways. This guide will take you through paying an affiliate. Paying affiliates is done through the __Pay Affiliates__ option under the __Manage__ menu as shown below.
 
-![Pay Affiliate Screen](/img/pay-affiliate.png)
+![Pay Affiliate Screen](img/pay-affiliate.png)
 
 ### Manual Affiliate Payments
 
@@ -20,7 +20,7 @@ To do this, you simply select __Manual__ next to the corresponding commission fo
 
 In the case that a commission is accidentally paid manually, you can simply create a Manual Commission from that Affiliate's page and then follow the previous steps to pay again.
 
-![Manual Commission](/img/manual-comm.png)
+![Manual Commission](img/manual-comm.png)
 
 ### Paying Affiliates through Paypal
 
@@ -42,6 +42,6 @@ To enable Mass Payments, simply submit the form on the [Payment Integrations Pag
 
 LeadDyno offers the ability to pay affiliates through an integration with Dwolla. Simply go to __Integrations__ in the left side menu and select the __Payment Services Tab__ (as shown below), click __Connect to Dwolla__ and follow the instructions to integrate.
 
-![Payment Services Page](/img/pay-services.png)
+![Payment Services Page](img/pay-services.png)
 
 After successfully connecting to Dwolla, it will appear as an option for compensation similar to Paypal. When you pay an affiliate via the Dwolla button, it will also pay your user based on their affiliate email. 
