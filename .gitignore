@@ -2,3 +2,4 @@ _site
 .idea
 .rvmrc
 .DS_Store
+log/
