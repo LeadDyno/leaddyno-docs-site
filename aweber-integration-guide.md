@@ -23,7 +23,7 @@ This will open a new window and AWeber will ask you to confirm allowing LeadDyno
 
 ![AWeber Setup](img/aweber/aweber2.png)
 
-Once you log into your AWeber account and click **Allow Access**, Aweber will profile you with an **authorization code**.
+Once you log into your AWeber account and click **Allow Access**, Aweber will provide you with an **authorization code**.
 
 ![AWeber Setup](img/aweber/aweber3.png)
 
