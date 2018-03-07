@@ -28,23 +28,35 @@ You should see your name at the top-right of the page. Click it, and select **Da
 ![/img/paypal_masspay_0.png](img/paypal_masspay_0.png)
 
 #### Step 3
-Scroll all the way down to the **REST API apps** section and select **Create App**.
+
+Confirm your account has payouts enabled by clicking the **My Account** option on the left menu and confirming there
+is a green checkbox in the **Live** column for the **Payouts** item. If there is an **Enable** link instead, click the
+link and fill out the information Paypal requires to enable Payouts. This may take a few days to Paypal to process.
+You can continue with this guide while they process your forms, but actual payouts will not work until this is enabled
+and a green checkmark is on this page. 
+
+![/img/paypal_masspay_1.png](img/paypal_masspay_10.png)
+
+#### Step 4
+
+Click back on the **My Apps & Credentials** menu item, then scroll all the way down to the **REST API apps** section and select **Create App**.
 
 ![/img/paypal_masspay_1.png](img/paypal_masspay_1.png) 
  
-#### Step 4
+ 
+#### Step 5
  * Under **App Name** type in **LeadDyno Affiliate Payout**
  * Select any value from the **Sandbox developer account** dropdown box.
  * Click **Create App**
  
 ![/img/paypal_masspay_2.png](img/paypal_masspay_2.png)
 
-#### Step 5
+#### Step 6
 * Make **SURE** to select **Live** at the top right of the page!
 * Click **Show** under the **Secret:** link.
 ![/img/paypal_masspay_3.png](img/paypal_masspay_3.png)
 
-#### Step 6
+#### Step 7
 The two values you need are the values under **Client ID** and the **Secret**. Copy and paste these values into a new 
 temporary notepad document.
 
