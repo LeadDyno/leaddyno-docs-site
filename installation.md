@@ -127,24 +127,31 @@ Here is example code in a variety of languages:
 <div class="tab-content">
   <div class="tab-pane active" id="conv-ruby">
     <pre class="prettyprint">
-  # Create a purchase
-  ld_uri = URI.parse("https://api.leaddyno.com/v1/purchases")
-  ld_http = Net::HTTP.new(ld_uri.host, ld_uri.port)
-  ld_http.use_ssl = true
-  ld_post = Net::HTTP::Post.new(ld_uri.request_uri)
-  ld_post.set_form_data({"key" => "<span class="priv-key-rep">YOUR_PRIVATE_KEY</span>",
-                         "email" => current_user.email,
-                         "plan" => current_user.plan})
-  ld_response = ld_http.request(ld_post)
+  require 'rest-client'
+  require 'json'
 
-  # Cancel all purchases for a customer
-  ld_uri = URI.parse("https://api.leaddyno.com/v1/purchases")
-  ld_http = Net::HTTP.new(ld_uri.host, ld_uri.port)
-  ld_http.use_ssl = true
-  ld_delete = Net::HTTP::Delete.new(ld_uri.request_uri &plus;
-                "?key=<span class="priv-key-rep">YOUR_PRIVATE_KEY</span>" &plus;
-                "&amp;email=#{CGI.escape(current_user.email)}")
-  ld_response = ld_http.request(ld_delete)
+  # Create a purchase    
+  req = {key: "<span class="priv-key-rep">YOUR_PRIVATE_KEY</span>", 
+         email: current_user.email, 
+         plan: current_user.plan}
+             
+  resp = RestClient.post("https://api.leaddyno.com/v1/purchases", 
+                         req, 
+                         {content_type: :json, accept: :json})
+
+  result = JSON.parse(resp)
+     
+  puts "#{result.inspect}"
+
+  
+  # Cancel all purchases for a customer    
+  req = {key: "<span class="priv-key-rep">YOUR_PRIVATE_KEY</span>", 
+         email: current_user.email}
+               
+  resp = RestClient.delete("https://api.leaddyno.com/v1/purchases", 
+                           {params: req, accept: :json})
+       
+  puts "#{resp.inspect}"
     </pre>
   </div>
 
