@@ -50,13 +50,13 @@ code into the box:
 ```
 <script type="text/javascript" src="https://static.leaddyno.com/js"></script>
 <script>
-  LeadDyno.key = "**YOUR_PRIVATE_KEY**";
+  LeadDyno.key = "**YOUR_PUBLIC_KEY**";
   LeadDyno.recordVisit();
   LeadDyno.autoWatch();
 </script>
 ```
 
-where **YOUR_PRIVATE_KEY** is replaced with your LeadDyno Private Key, available here:
+where **YOUR_PUBLIC_KEY** is replaced with your LeadDyno **Public** Key, available here:
 
  [https://app.leaddyno.com/settings/account](https://app.leaddyno.com/settings/account)
 
