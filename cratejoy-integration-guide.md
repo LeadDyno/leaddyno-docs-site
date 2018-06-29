@@ -4,24 +4,24 @@ title: "Affiliate Tracking Software & Online Marketing System: LeadDyno"
 nav: guide > cratejoy-integration-guide
 ---
 
-## CrateJoy Integration Guide
+## Cratejoy Integration Guide
 
 ### Introduction
 
 
-This guide explains how to integrate your [CrateJoy](http://www.cratejoy.com) E-Commerce site with LeadDyno.  The integration between
-CrateJoy and LeadDyno allows automated tracking of visitors, leads, and purchases, along with affiliate
-commission generation and cancellation based on the order status within CrateJoy.
+This guide explains how to integrate your [Cratejoy](http://www.cratejoy.com) E-Commerce site with LeadDyno.  The integration between
+Cratejoy and LeadDyno allows automated tracking of visitors, leads, and purchases, along with affiliate
+commission generation and cancellation based on the order status within Cratejoy.
 
 
-### Adding LeadDyno Tracking To Your CrateJoy Theme
+### Adding LeadDyno Tracking To Your Cratejoy Theme
 
 <p class="alert alert-info">
-  <strong>Note:</strong> If you change your CrateJoy theme, you will need to repeat the steps in this section for the new theme.
+  <strong>Note:</strong> If you change your Cratejoy theme, you will need to repeat the steps in this section for the new theme.
 </p>
 
 #### Step 1
-Go to the [CrateJoy Control Panel](http://my.cratejoy.com) and make sure you are logged into your account.
+Go to the [Cratejoy Control Panel](http://my.cratejoy.com) and make sure you are logged into your account.
 
 #### Step 2
 After you are logged in, click the **Design** link on the left navigation menu, and select **Designer** for your
@@ -64,13 +64,13 @@ where **YOUR_PUBLIC_KEY** is replaced with your LeadDyno **Public** Key, availab
 
 After pasting in the code, click the green **Save** button at the top-right of the page.
 
-You can now leave the designer view and go back to the main [CrateJoy Control Panel](http://my.cratejoy.com).
+You can now leave the designer view and go back to the main [Cratejoy Control Panel](http://my.cratejoy.com).
 
-### Create CrateJoy API Credentials 
+### Create Cratejoy API Credentials 
 
 #### Step 1
 
-While back on the [CrateJoy Control Panel](http://my.cratejoy.com), select the **Settings** option in the left
+While back on the [Cratejoy Control Panel](http://my.cratejoy.com), select the **Settings** option in the left
 navigation menu, and click **API**.
 
 ![/img/cratejoy/cratejoy5.png](img/cratejoy/cratejoy5.png)
@@ -94,7 +94,7 @@ browser tab open and open a new tab to the [LeadDyno Dashboard](https://app.lead
 
 * Make sure you are logged into your [LeadDyno](https://app.leaddyno.com) account.
 * Go to the [LeadDyno E-Commerce Integration Settings](https://app.leaddyno.com/integrations/e-commerce).
-* Click the **Connect** button for CrateJoy. 
+* Click the **Connect** button for Cratejoy. 
 
 ![/img/cratejoy/cratejoy8.png](img/cratejoy/cratejoy8.png)
  
@@ -111,8 +111,8 @@ browser tab open and open a new tab to the [LeadDyno Dashboard](https://app.lead
 
 ### Conclusion
 
-The CrateJoy integration is now connected, and as new CrateJoy orders are received, they will appear instantly within
+The Cratejoy integration is now connected, and as new Cratejoy orders are received, they will appear instantly within
 LeadDyno!
 
-If you have any problems creating the CrateJoy integration, we can help! Contact <a href="mailto:support@leaddyno.com">support@leaddyno.com</a>
+If you have any problems creating the Cratejoy integration, we can help! Contact <a href="mailto:support@leaddyno.com">support@leaddyno.com</a>
 or use our in-app Live Chat to connect with a support representative.
