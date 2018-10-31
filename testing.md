@@ -18,12 +18,7 @@ cookie sessions without clearing your current cookie cache.
 
 Below are the steps you can use to test LeadDyno, using Incognito Mode:
 
-## Video Demonstration
-<div>
-<iframe width="420" height="315" src="//www.youtube.com/embed/5piFelwC8Es" frameborder="0" allowfullscreen="allowfullscreen">&nbsp;</iframe>  
-</div>
-
-## Step By Step Example
+## Step By Step
 
 #### Step 1) Ensure No Existing Incognito Windows Are Open
 

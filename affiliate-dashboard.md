@@ -8,13 +8,6 @@ nav: guide > affiliate-dashboard
 
 Affiliates can track their own progress in real-time via their **Affiliate Dashboard**. You will provide them with a unique link to their dashboard, so that they can monitor their current clicks, leads, and conversions.
 
-Video Demo: [Affiliate Management via LeadDyno's Affiliate Dashboard](http://youtu.be/kfSOxmiT2XM)
-
-<div>
-	<iframe width="640" height="360" src="http://www.youtube.com/embed/kfSOxmiT2XM?feature=player_embedded" frameborder="0" >
-	</iframe>
-</div>
-
 ### Accessing the Affiliate Dashboard
 
 When a new affiliate is created, LeadDyno will assign them two unique links. The first is their unique referral link, which they will use in promoting your product. The second is a link to their **Affiliate Dashboard**, where they can view their progress and upcoming payments, and access promotional materials.
