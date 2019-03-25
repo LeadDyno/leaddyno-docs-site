@@ -1,7 +1,7 @@
 ---
 layout: guide
 title: "Affiliate Tracking Software & Online Marketing System: LeadDyno"
-nav: guide > tracking-campaigns
+id: tracking-campaigns
 ---
 
 ## Introduction To Tracking Campaigns

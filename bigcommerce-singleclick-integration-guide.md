@@ -1,7 +1,7 @@
 ---
 layout: guide
 title: "Bigcommerce One Click Integration Guide with LeadDyno, The Affiliate Tracking Software & Online Marketing System"
-nav: guide > bigcommerce-singleclick-integration-guide
+id: bigcommerce-singleclick-integration-guide
 ---
 
 ## Bigcommerce Integration Guide

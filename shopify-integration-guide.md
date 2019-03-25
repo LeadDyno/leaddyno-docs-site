@@ -1,7 +1,7 @@
 ---
 layout: guide
 title: "Affiliate Tracking Software & Online Marketing System: LeadDyno"
-nav: guide > shopify-integration-guide
+id: shopify-integration-guide
 ---
 
 ## Shopify Integration Guide

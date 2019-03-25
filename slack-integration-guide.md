@@ -1,7 +1,7 @@
 ---
 layout: guide
 title: "Affiliate Tracking Software & Online Marketing System: LeadDyno"
-nav: guide > slack-integration-guide
+id: slack-integration-guide
 ---
 
 ## Slack Integration Guide

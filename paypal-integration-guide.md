@@ -1,7 +1,7 @@
 ---
 layout: guide
 title: "Affiliate Tracking Software & Online Marketing System: LeadDyno"
-nav: guide > paypal-integration-guide
+id: paypal-integration-guide
 ---
 
 ## Paypal "Buy Now" Integration Guide

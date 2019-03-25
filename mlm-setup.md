@@ -1,7 +1,7 @@
 ---
 layout: guide
 title: "Affiliate Tracking Software & Online Marketing System: LeadDyno"
-nav: guide > mlm-setup
+id: mlm-setup
 ---
 
 ## Multi-Level (MLM) Affiliate Setup

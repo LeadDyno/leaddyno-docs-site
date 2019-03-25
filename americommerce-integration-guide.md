@@ -1,7 +1,7 @@
 ---
 layout: guide
 title: "Spark Pay Integration Guide with LeadDyno, The Affiliate Tracking Software & Online Marketing System"
-nav: guide > americommerce-integration-guide
+id: americommerce-integration-guide
 ---
 
 ## Spark Pay Integration Guide

@@ -1,7 +1,7 @@
 ---
 layout: guide
 title: "Affiliate Tracking Software & Online Marketing System: LeadDyno"
-nav: guide > customizing-your-affiliate-homepage
+id: customizing-your-affiliate-homepage
 ---
 
 ## Customizing Your Affiliate Home Page

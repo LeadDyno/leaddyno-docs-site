@@ -1,7 +1,7 @@
 ---
 layout: guide
 title: "Affiliate Tracking Software & Online Marketing System: LeadDyno"
-nav: guide > e-junkie-integration-guide
+id: e-junkie-integration-guide
 ---
 
 ## E-Junkie Integration Guide

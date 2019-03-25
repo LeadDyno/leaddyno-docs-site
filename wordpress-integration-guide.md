@@ -1,7 +1,7 @@
 ---
 layout: guide
 title: "Affiliate Tracking Software & Online Marketing System: LeadDyno"
-nav: guide > wordpress-integration-guide
+id: wordpress-integration-guide
 ---
 
 ## Wordpress/WooCommerce Integration Guide

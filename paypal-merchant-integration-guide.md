@@ -1,7 +1,7 @@
 ---
 layout: guide
 title: "Affiliate Tracking Software & Online Marketing System: LeadDyno"
-nav: guide > paypal-merchant-integration-guide
+id: paypal-merchant-integration-guide
 ---
 
 ## Paypal Merchant Account Integration Guide

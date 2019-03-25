@@ -1,7 +1,7 @@
 ---
 layout: guide
 title: "Coinbase Integration Guide with LeadDyno, The Affiliate Tracking Software & Online Marketing System"
-nav: guide > coinbase-integration-guide
+id: coinbase-integration-guide
 ---
 
 ## Coinbase Integration Guide

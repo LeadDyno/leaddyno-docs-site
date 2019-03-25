@@ -1,7 +1,7 @@
 ---
 layout: guide
 title: "AWeber Integration Guide with LeadDyno, The Affiliate Tracking Software & Online Marketing System"
-nav: guide > aweber-integration-guide
+id: aweber-integration-guide
 ---
 
 ## AWeber Integration Guide

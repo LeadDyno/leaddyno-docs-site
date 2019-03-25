@@ -1,7 +1,7 @@
 ---
 layout: guide
 title: "Affiliate Tracking Software & Online Marketing System: LeadDyno"
-nav: guide > stripe-integration-guide
+id: stripe-integration-guide
 ---
 
 ## Stripe Integration Guide

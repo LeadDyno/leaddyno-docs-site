@@ -1,7 +1,7 @@
 ---
 layout: guide
 title: "Affiliate Tracking Software & Online Marketing System: LeadDyno"
-nav: guide > cratejoy-integration-guide
+id: cratejoy-integration-guide
 ---
 
 ## Cratejoy Integration Guide

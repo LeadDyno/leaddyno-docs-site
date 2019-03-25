@@ -1,7 +1,7 @@
 ---
 layout: guide
 title: "Hubspot Integration Guide with LeadDyno, The Affiliate Tracking Software & Online Marketing System"
-nav: guide > hubspot-integration-guide
+id: hubspot-integration-guide
 ---
 
 ## Hubspot Integration Guide

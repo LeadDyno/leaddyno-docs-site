@@ -1,7 +1,7 @@
 ---
 layout: guide
 title: "Infusionsoft Integration Guide with LeadDyno, The Affiliate Tracking Software & Online Marketing System"
-nav: guide > infusionsoft
+id: infusionsoft
 ---
 
 ## Infusionsoft Integration Guide

@@ -1,7 +1,7 @@
 ---
 layout: guide
 title: "Affiliate Tracking Software & Online Marketing System: LeadDyno"
-nav: guide > comp-plan 
+id: affiliate-compensation-plan 
 ---
 
 ## Affiliate Commission Plans

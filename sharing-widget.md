@@ -1,7 +1,7 @@
 ---
 layout: guide
 title: "Affiliate Tracking Software & Online Marketing System: LeadDyno"
-nav: guide > sharing-widget
+id: sharing-widget
 ---
 
 ## Sharing Widget

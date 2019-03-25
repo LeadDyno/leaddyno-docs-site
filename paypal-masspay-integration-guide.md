@@ -1,7 +1,7 @@
 ---
 layout: guide
 title: "Affiliate Tracking Software & Online Marketing System: LeadDyno"
-nav: guide > paypal-masspay-integration-guide
+id: paypal-masspay-integration-guide
 ---
 
 ## Paypal MassPay Integration Guide

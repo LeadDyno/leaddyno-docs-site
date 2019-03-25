@@ -1,7 +1,7 @@
 ---
 layout: guide
 title: "Custom Domain for Dashboard"
-nav: guide > custom-domain
+id: affiliate-dashboard-custom-domain
 ---
 
 ## Custom Domain for Affiliate Dashboard

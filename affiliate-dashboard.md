@@ -1,7 +1,7 @@
 ---
 layout: guide
 title: "Affiliate Tracking Software & Online Marketing System: LeadDyno"
-nav: guide > affiliate-dashboard
+id: affiliate-dashboard
 ---
 
 ## The Affiliate Dashboard

@@ -1,7 +1,7 @@
 ---
 layout: guide
 title: "Affiliate Tracking Software & Online Marketing System: LeadDyno"
-nav: guide > chargebee-integration-guide
+id: chargebee-integration-guide
 ---
 
 ## Chargebee Integration Guide

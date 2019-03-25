@@ -1,7 +1,7 @@
 ---
 layout: guide
 title: "Affiliate Tracking Software & Online Marketing System: LeadDyno"
-nav: guide > affiliate-email
+id: affiliate-marketing-email-follow-up
 ---
 
 ## Automated Affiliate Emails

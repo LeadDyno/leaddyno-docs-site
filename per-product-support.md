@@ -1,7 +1,7 @@
 ---
 layout: guide
 title: "Affiliate Tracking Software & Online Marketing System: LeadDyno"
-nav: guide > per-product
+id: per-product-support
 ---
 
 ## Per-Product Commission

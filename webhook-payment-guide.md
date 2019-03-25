@@ -1,7 +1,7 @@
 ---
 layout: guide
 title: "Affiliate Tracking Software & Online Marketing System: LeadDyno"
-nav: guide > webhook-payment-guide
+id: webhook-payment-guide
 ---
 
 ## Webhook Payment Guide

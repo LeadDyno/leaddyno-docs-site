@@ -1,7 +1,7 @@
 ---
 layout: guide
 title: "Affiliate Tracking Software & Online Marketing System: LeadDyno"
-nav: guide > chargify-integration-guide
+id: chargify-integration-guide
 ---
 
 ## Chargify Integration Guide

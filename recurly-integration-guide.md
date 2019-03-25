@@ -1,7 +1,7 @@
 ---
 layout: guide
 title: "Affiliate Tracking Software & Online Marketing System: LeadDyno"
-nav: guide > recurly-integration-guide
+id: recurly-integration-guide
 ---
 
 ## Recurly Integration Guide

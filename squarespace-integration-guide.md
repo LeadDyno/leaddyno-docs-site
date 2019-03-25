@@ -1,7 +1,7 @@
 ---
 layout: guide
 title: "Affiliate Tracking Software & Online Marketing System: LeadDyno"
-nav: guide > squarespace-integration-guide
+id: squarespace-integration-guide
 ---
 
 ## Squarespace Integration Guide

@@ -1,7 +1,7 @@
 ---
 layout: guide
 title: "Affiliate Tracking Software & Online Marketing System: LeadDyno"
-nav: guide > pay-per-click
+id: pay-per-click-tracking-software
 ---
 
 ## AdWords Tracking

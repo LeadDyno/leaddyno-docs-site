@@ -1,7 +1,7 @@
 ---
 layout: guide
 title: "Affiliate Tracking Software & Online Marketing System: LeadDyno"
-nav: guide > email-tracking
+id: online-marketing-software-email-tracking
 ---
 
 ## Email Marketing Tracking
