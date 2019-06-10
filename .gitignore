@@ -2,4 +2,5 @@ _site
 .idea
 .rvmrc
 .DS_Store
+.sass-cache
 log/
