@@ -7,3 +7,40 @@ $ld-color-purchases: #495AD4;
 
 @import '../_sass/titan';
 @import '../_sass/bootstrap';
+
+h1, h2, h3, h4, h5, h6 {
+  margin-top: 3.6rem;
+  opacity: 0.85;
+  font-family: "Open Sans", Sans-Serif;
+}
+
+h2:first-of-type {
+  margin-top: 0;
+  opacity: 1;
+  font-weight: bold;
+  font-family: Helvetica Neue, sans-serif;
+  font-size: 3rem;
+  max-width: 30rem;
+}
+
+h2:first-of-type::after {
+  content: '';
+  width: 4rem;
+  height: 0.5rem;
+  background-color: $ld-color-leads;
+  display: block;
+}
+
+img {
+  max-width: 600px;
+  @extend .box-shadow;
+  padding: 1rem;
+  @extend .border-radius;
+}
+
+pre {
+  background-color: $body-bg;
+  margin-left: -2rem;
+  margin-right: -2rem;
+  padding: 2rem;
+}
