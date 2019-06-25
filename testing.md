@@ -43,7 +43,7 @@ This new window should have the Incognito logo in it:
 
 Copy the affiliate link of the affiliate you would like to test:
 
-![Incognito](img/testing-copy-link.png)
+![Incognito](img/copy_and_paste_affiliate_link.jpg)
 
 And paste it into the new Incognito window:
 
@@ -51,12 +51,12 @@ And paste it into the new Incognito window:
 
 Then hit enter.
 
-#### Step 3) Verify That The Visitor Was Tracked
+#### Step 4) Verify That The Visitor Was Tracked
 
 Return to LeadDyno and make a note of the affiliates visitor count.  Next, refresh the affiliates page.
 You should see the visitor count for the affiliate has incremented:
 
-![Incognito](img/testing-visitor-updated.png)
+![Incognito](img/verify_tracking.jpg)
 
 Continue through your registration/purchase process and ensure that LeadDyno is being sent Lead and Purchase information
 via your installation.

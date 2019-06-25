@@ -14,6 +14,25 @@ h1, h2, h3, h4, h5, h6 {
   font-family: "Open Sans", Sans-Serif;
 }
 
+h3 {
+  font-size: 1.5rem;
+  font-weight: bolder;
+}
+
+h4 {
+  font-size: 1.25rem;
+  font-weight: bolder;
+}
+
+h5 {
+  font-size: 1rem;
+  font-weight: bolder;
+}
+
+h6 {
+  font-size: 0.85rem;
+}
+
 h2:first-of-type {
   margin-top: 0;
   opacity: 1;
@@ -21,11 +40,13 @@ h2:first-of-type {
   font-family: Helvetica Neue, sans-serif;
   font-size: 3rem;
   max-width: 30rem;
+  margin-bottom: 3rem;
 }
 
 h2:first-of-type::after {
   content: '';
   width: 4rem;
+  margin-top: 1rem;
   height: 0.5rem;
   background-color: $ld-color-leads;
   display: block;
@@ -34,13 +55,17 @@ h2:first-of-type::after {
 img {
   max-width: 600px;
   @extend .box-shadow;
-  padding: 1rem;
+  //padding: 1rem;
   @extend .border-radius;
 }
 
 pre {
   background-color: $body-bg;
-  margin-left: -2rem;
-  margin-right: -2rem;
-  padding: 2rem;
+  margin-left: -4rem;
+  margin-right: -4rem;
+  padding: 4rem;
+}
+
+.card-body-lg {
+  padding: 4rem;
 }

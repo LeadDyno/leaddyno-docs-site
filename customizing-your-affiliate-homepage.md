@@ -14,7 +14,7 @@ You can customize the entire look, feel, and content of your **Affiliate Home Pa
 [Configure Affiliate Website](https://app.leaddyno.com/content/website_customization) page within
 LeadDyno.
 
-![affiliate_dashboard_customization](img/configure_affiliate_website_1.png)
+![affiliate_dashboard_customization](img/customize_affiliate_website.jpg)
 
 ----
 
