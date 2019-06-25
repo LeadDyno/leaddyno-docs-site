@@ -12,11 +12,6 @@ A custom domain for your affiliate dashboard allows affiliates to access their d
 To use a custom domain name such as `affiliates.yourdomain.com`, create a `CNAME` through your DNS provider and point
 it to `app.leaddyno.com`.
 
-<div class="alert alert-warning">
-<strong>Warning:</strong> When using custom domains, your affiliate dashboard will no longer be available via SSL due
-to the limitations and complexity of managing private SSL certificates.
-</div>
-
 
 ### Enabling a Custom Domain:
 
