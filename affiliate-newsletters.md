@@ -22,11 +22,12 @@ Affiliate newsletters are sent via email to your affiliates.
 You can create a new Affiliate Newsletter by clicking the **New Affiliate Newsletter** button on the **Affiliate
 Newsletters** section within **Tools**.
 
-![content_list](img/newsletters_new.png)
+![content_list](img/newsletter_setup.jpg)
+![content_list](img/new_newseletter_button.jpg)
 
 You will be taken to the Newsletter editor:
 
-![content_list](img/newsletter_edit.png)
+![content_list](img/new_newsletter.jpg)
 
 #### From
 
@@ -97,7 +98,7 @@ case I recommend you open the information page for the banner in a new tab, beca
 
 First, you can copy the HTML for the banner by highlighting the banner in the **Body** section and hitting **CTRL-C**.
 
-![content_list](img/newsletter_banner_embed2.png)
+![content_list](img/embedding_the_banner.jpg)
 
 You can then switch to the tab you are composing your newsletter in and insert the banner by hitting **CTRL-V**
 
@@ -111,7 +112,7 @@ descriptive link below the banner, using the copied sharing URL:
 When your affiliate clicks on this link, they will be taken to a specialized version of the banner containing their
 tracking link:
 
-![content_list](img/newsletter_banner_embed4.png)
+![content_list](img/Banner_1.jpg)
 
 which they can then copy and share.
 
@@ -121,7 +122,7 @@ After you have saved your newsletter, you will likely want to test the newslette
 sure that the formatting and content is all rendering correctly.  To do so click on the **Send Test** button, which
 will prompt you for an email to send a test version of the newsletter to.
 
-![content_list](img/newsletter_send_test.png)
+![content_list](img/testing_your_newsletter.jpg)
 
 Once you have verified that the newsletter appears the way that you'd like to to, you are ready to publish.
 
@@ -132,7 +133,7 @@ show a progress bar (as well as a cancel button).
 
 Congratulations, you've published your first affiliate newsletter!
 
-![content_list](img/newsletter_publish.png)
+![content_list](img/publishing_your_newsletter.jpg)
 
 ### Newsletter Archives
 
@@ -140,4 +141,4 @@ All newsletters that you create will be available on your affiliate dashboard un
 if an affiliate joins your program after you publish a newsletter, they will have an opportunity to read the newsletters
 and utilize the content in them:
 
-![content_list](img/newsletters_archive.png)
+![content_list](img/affiliate_newsletters.jpg)
