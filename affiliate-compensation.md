@@ -8,7 +8,7 @@ id: affiliate-compensation
 
 LeadDyno offers you the ability to pay your affiliates in a variety of ways. This guide will take you through paying an affiliate. Paying affiliates is done through the __Pay Affiliates__ option under the __Manage__ menu as shown below.
 
-![Pay Affiliate Screen](img/pay-affiliate.png)
+![Pay Affiliate Screen](img/pay_commission.jpg)
 
 ### Manual Affiliate Payments
 
@@ -20,7 +20,7 @@ To do this, you simply select __Manual__ next to the corresponding commission fo
 
 In the case that a commission is accidentally paid manually, you can simply create a Manual Commission from that Affiliate's page and then follow the previous steps to pay again.
 
-![Manual Commission](img/manual-comm.png)
+![Manual Commission](img/pay_commissions_2.jpg)
 
 ### Paying Affiliates through Paypal
 

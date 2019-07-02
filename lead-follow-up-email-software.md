@@ -14,7 +14,7 @@ scalable and automated manner.
 
 Click the **Lead Follow-up Emails** option located in the **Tools** menu to create a lead follow up email.
 
-![Settings](img/Follow-Up-Email-System.png)
+![Settings](img/lead_follow_emails.jpg)
 
 ### General Email Setup
 

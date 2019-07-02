@@ -17,7 +17,7 @@ The LeadDyno Slack app allows you to get LeadDyno activity posted to a Slack cha
 
 First visit the **Online Tools** Tab of the Integrations section:
 
-![Slack Setup](img/connect_to_slack.png)
+![Slack Setup](img/slack_integration.jpg)
 
 If you have a LeadDyno account, click [here](https://app.leaddyno.com/integrations/tools). If you are new to LeadDyno, you can signup [here](https://app.leaddyno.com/signup).
 

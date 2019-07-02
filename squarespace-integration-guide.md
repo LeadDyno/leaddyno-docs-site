@@ -53,7 +53,7 @@ affiliate commissions are generated.  If you find this a hassle and want to simp
 purchases, you can enable "AutoApprove" of purchases by clicking the "AutoApprove" button on the purchase screen
 in LeadDyno:
 
-![Squarespace Autoapprove](img/americommerce-autoapprove.png)
+![Squarespace Autoapprove](img/autoapprove.jpg)
 
 ### Conclusion
 

@@ -9,7 +9,7 @@ id: content
 LeadDyno allows you to create and manage marketing content that can be used by your affiliates, as well as linked to
 directly from your own website.  You can manage your content by selecting the **Content** menu item in the left side navigation section:
 
-![content_list](img/content_list.png)
+![content_list](img/affiliate_content.jpg)
 
 Here you will see a list of content that you have created.  Each piece of content will have an icon indicating which
 channel the content is designed for:
@@ -22,17 +22,19 @@ channel the content is designed for:
 
 ### Adding/Editing Content
 
-You can add content by selecting the content type from the "Add Content" button:
+You can add content by selecting the "Add Content" button:
 
-![content_list](img/content_add.png)
+![content_list](img/adding_content.jpg)
 
-which will take you to the content editor, where you can compose your content.
+Next pick your content type, which will take you to the content editor, where you can compose your content.
+
+![content_list](img/content_type_picker.jpg)
 
 #### The Content Editor
 
 The content editor lets you all aspects of the content:
 
-![content_list](img/content_editor.png)
+![content_list](img/content_editor.jpg)
 
 #### Content Title
 
@@ -84,7 +86,7 @@ will become
 
 After content is created you will be taken to a detail page, which will show information about the content:
 
-![content_list](img/content_show.png)
+![content_list](img/affiliate_content_details.jpg)
 
 In particular, the content will be given a content URL, highlighted in the image above.  This URL can be used to
 link to the content from anywhere, including your own website, newsletters, etc.
@@ -118,7 +120,7 @@ When an affiliate looks at this banner, they will see the content specialized fo
 
 Primary Content is the content that will be used when an affiliate clicks on the quick share buttons on their dashboard:
 
-![content_list](img/content_primary.png)
+![content_list](img/primary_content.jpg)
 
 Content that you mark as "Primary" will be the content used for these links.  Only one piece of content per channel
 can be the primary content.
@@ -137,5 +139,5 @@ at `https://yourproduct.leaddyno.com` then the following URLs are linked to your
 You may have additional content such as banners, other tweets or facebook posts, etc. that you want your affiliates to
 have access to, you can mark them as "On Marketing Tab" and they will then appear on the marketing tab:
 
-![content_list](img/content_marketing_tab.png)
+![content_list](img/marketing_content.jpg)
 

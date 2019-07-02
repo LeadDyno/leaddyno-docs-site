@@ -12,10 +12,12 @@ developers can assist you and your team as you get LeadDyno dialed in for your w
 
 Below is an overview of what LeadDyno can do for you.
 
-<div class="support-section">
-<span class="text-large">Still have questions?</span><br>
-<a href="https://www.leaddyno.com/support/" class="button-ghost">Schedule a Call</a> or <a href="https://www.leaddyno.com/demo/" class="button-ghost">attend a demo</a>
+<hr>
+<div class="py-4">
+<span class="d-block" style="font-size: 1.75rem;">Still have questions?</span><br>
+<a class="btn btn-outline-primary" href="https://www.leaddyno.com/support/">Schedule a Call</a> <span class="px-1"> or </span> <a class="btn btn-outline-primary" href="https://www.leaddyno.com/demo/">attend a demo</a>
 </div>
+<hr>
 
 ### Installation
 

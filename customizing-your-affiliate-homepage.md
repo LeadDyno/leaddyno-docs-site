@@ -11,10 +11,10 @@ to it on your account page [here](https://app.leaddyno.com/settings/account) and
 .
 
 You can customize the entire look, feel, and content of your **Affiliate Home Page** on the
-[Configure Affiliate Website](https://app.leaddyno.com/content/website_customization) page within
+[Configure Affiliate Website](https://app.leaddyno.com/content/dashboard_customization) page within
 LeadDyno.
 
-![affiliate_dashboard_customization](img/configure_affiliate_website_1.png)
+![affiliate_dashboard_customization](img/customize_affiliate_website.jpg)
 
 ----
 

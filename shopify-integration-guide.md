@@ -13,19 +13,17 @@ your online Shopify shop.
 
 ### Connecting To Shopify
 
-First visit the **E-Commerce Services** Tab of the Integrations section:
+First visit the **E-Commerce Services** Tab of the Apps section:
 
-![Shopify Setup](img/connect_to_shopify.png)
+![Shopify Setup](img/shopify_integration.jpg)
 
 Or click [Here](https://app.leaddyno.com/settings/integrations/e-commerce) if you already have a LeadDyno account.
 
 Next fill in your Shopify shop name (e.g. 'yourshop.myshopify.com'):
 
-![Shopify Setup](img/shopify_shop_name.png)
+![Shopify Setup](img/shop_name.jpg)
 
 then click **Connect to Shop**:
-
-![Shopify Setup](img/shopify_connect.png)
 
 You will be asked to log into Shopify:
 
