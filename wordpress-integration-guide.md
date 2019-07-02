@@ -52,7 +52,7 @@ field and then click ***Update LeadDyno Settings***.
 To get your LeadDyno public and private keys, visit the [LeadDyno Settings](https://app.leaddyno.com/settings/account) page
 in the LeadDyno application.
 
-![Wordpress](img/wordpress/wordpress9.png)
+![Wordpress](img/settings_wordpress.jpg)
 
 
 ### Conclusion
