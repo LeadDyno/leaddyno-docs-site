@@ -7,7 +7,7 @@ id: affiliate-dashboard-custom-domain
 ## Custom Domain for Affiliate Dashboard
 
 A custom domain for your affiliate dashboard allows affiliates to access their dashboard at a URL like
-`http://affiliates.yourdomain.com` instead of `https://account-name.leaddyno.com`.
+`https://affiliates.yourdomain.com` instead of `https://account-name.leaddyno.com`.
 
 To use a custom domain name such as `affiliates.yourdomain.com`, create a `CNAME` through your DNS provider and point
 it to `app.leaddyno.com`.
@@ -48,3 +48,13 @@ After setting up the `CNAME` record with your provider, go to the [LeadDyno Dash
  type in your custom domain name without the leading `http://` into the **Custom Domain** box.
 
  Your custom domain name should now be ready to use at `http://affiliates.yourdomain.com`.
+
+
+
+### SSL Support
+
+After confirming your domain properly has the CNAME pointed to LeadDyno, LeadDyno will obtain an SSL certificate
+for your affiliate dashboard domain such that all traffic do your affiliate dashboard will be protected and secure.
+
+All requests to the non-SSL version of your affiliate dashboard will be automatically redirected to the SSL-enabled
+version.
