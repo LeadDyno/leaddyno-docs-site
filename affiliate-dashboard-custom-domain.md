@@ -47,7 +47,7 @@ After setting up the `CNAME` record with your provider, go to the [LeadDyno Dash
  and then select **Content** -> **Configure Affiliate Dashboard** and in the **Settings** section,
  type in your custom domain name without the leading `http://` into the **Custom Domain** box.
 
- Your custom domain name should now be ready to use at `http://affiliates.yourdomain.com`.
+ Your custom domain name should now be ready to use at `https://affiliates.yourdomain.com`.
 
 
 
