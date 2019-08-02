@@ -19,7 +19,8 @@ If you do not already have a Tremendous account, you can sign up <a href="https:
 ### Setup Your Tremendous Account
 
 Detailed information on how to configure your Tremendous account can be found in their <a href="http://help.tremendous.com/en/" target="_blank">help documentation</a>. You will need
-to configure a funding source, and setup at least one campaign. 
+to add funds to your account, and setup at least one campaign to decide which gift cards an affiliate can choose and if you
+want to allow bank transfers. 
 
 
 ### Connecting to Tremendous
@@ -39,16 +40,15 @@ be asked to login. After logging in, you will be asked to allow LeadDyno to acce
 ![Authorize Tremendous](img/tremendous/tremendous3.png)
 
 After clicking **AUTHORIZE**, the connection will be established, and you will now see the Tremendous app listed in the Installed
-Apps. Everything is connected, and you can now configure the funding source and campaign by clicking **Edit**.
+Apps. Everything is connected, you can now configure which Tremendous campaign to use by clicking **Edit**.
 
 ![Success](img/tremendous/tremendous4.png)
 
 
 ### Configure Tremendous Settings
 
-From the Edit page, you can select your Tremendous funding source and campaign to use for affiliate payouts. This
-will determine how the gift card/bank transfers will be funded. The campaign determines which gift cards and/or if a
-bank payout option is offered to the affiliate when they redeem their payout.
+From the Edit page, you can select your Tremendous campaign to use for affiliate payouts. This determines which gift 
+cards and/or if a bank payout option is offered to the affiliate when they redeem their payout.
 
 ![Configure Tremendous](img/tremendous/tremendous5.png)
 
