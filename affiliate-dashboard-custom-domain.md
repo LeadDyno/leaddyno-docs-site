@@ -54,7 +54,7 @@ After setting up the `CNAME` record with your provider, go to the [LeadDyno Dash
 ### SSL Support
 
 After confirming your domain properly has the CNAME pointed to LeadDyno, LeadDyno will obtain an SSL certificate
-for your affiliate dashboard domain such that all traffic do your affiliate dashboard will be protected and secure.
+for your affiliate dashboard domain such that all traffic to your affiliate dashboard will be protected and secure.
 
 All requests to the non-SSL version of your affiliate dashboard will be automatically redirected to the SSL-enabled
 version.
