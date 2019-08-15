@@ -14,10 +14,10 @@ captures a lead and/or a new affiliate signs up.
 
 ### Enable AWeber Integration Inside LeadDyno ###
 
-Connecting your existing AWeber account is easy. Simply visit the **[CRM](https://app.leaddyno.com/integrations/crm)** tab
-of the Integrations section, then click the **Connect** button on the AWeber card. 
+Connecting your existing AWeber account is easy. Simply visit the **[email-marketing tab](https://app.leaddyno.com/integrations/store#apps-marketing)**
+of the **[app store](https://app.leaddyno.com/integrations/store)**, then click the **add** button on the AWeber card. 
 
-![AWeber Setup](img/aweber/aweber1.png)
+![AWeber Setup](img/Aweber 1.jpg)
 
 This will open a new window and AWeber will ask you to confirm allowing LeadDyno to access your account.
 
@@ -30,11 +30,9 @@ Once you log into your AWeber account and click **Allow Access**, Aweber will pr
 Return to LeadDyno and click the **Configure** button on the AWeber card, and paste in the entire value of your authorization
 code from the AWeber page and click *Save*.
 
-![AWeber Setup](img/aweber/aweber4.png)
+![AWeber Setup](img/Aweber 2.jpg)
 
 You are now connected to your AWeber account!
-
-![AWeber Setup](img/aweber/aweber5.png)
 
 
 To pick which lists leads and/or affiliates are subscribed to, click the **Edit** button, make the selections and click
