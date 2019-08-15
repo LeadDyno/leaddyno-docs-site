@@ -70,13 +70,13 @@ After clicking Save, your Bigcommerce store will now have the tracking code on e
 
 If you want to provide your affiliates a coupon code that will track sales back to them, you can now set that up.
 
-On the [LeadDyno Integration Settings](https://app.leaddyno.com/settings/integrations/e-commerce) page, there is a new button called
+On the [LeadDyno Integration Settings](https://app.leaddyno.com/integrations) page, there is a new button called
 Manage Bigcommerce Discount Program. This is where you configure the default settings for new coupons that
 LeadDyno creates for each affiliate.
 
-![Bigcommerce Discount Settings](img/bc_guide_ld_coupon_settings.png)
+![Bigcommerce Discount Settings](img/bigcommerce 1.jpg)
 
-![Bigcommerce Discount Settings Manage](img/bc_guide_ld_coupon_settings2.png)
+![Bigcommerce Discount Settings Manage](img/bigcommerce 2.jpg)
 
 
 On this page you can choose if the coupon should be a percentage or fixed amount, and if a minimum purchase is required
