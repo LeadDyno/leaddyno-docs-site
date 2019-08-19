@@ -41,7 +41,7 @@ commission plan code. Below is an example LeadDyno commission plan. The **Code**
 the Default commission plan defined in LeadDyno.
 
 
-![LeadDyno Commission Plan](img/pp_guide_leaddyno_commission_plan.png)
+![LeadDyno Commission Plan](img/plans.jpg)
 
 
 In the example above, affiliates would be compensated $10 starting after the first month for any customers they bring

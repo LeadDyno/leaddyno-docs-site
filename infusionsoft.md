@@ -41,9 +41,7 @@ Now check **Sync Leads** and **Sync Purchases**, if you'd like to begin tracking
 
 **NOTE:** If you have enabled auto affiliate invitation emails before syncing purchases, LeadDyno will email all of your past purchases with invitations to join your affiliate program! To prevent this, disable [automated affiliate invitations](https://app.leaddyno.com/affiliate_emails/viral).
 
-![Infusionsoft Integration](img/infusionsoft_integration.png)
-
-![Infusionsoft Integration](img/infusionsoft_integration2.png)
+![Infusionsoft Integration](img/infusionsoft 1.jpg)
 
 ### Conclusion ###
 
