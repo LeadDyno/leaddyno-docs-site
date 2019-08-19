@@ -57,7 +57,7 @@ RESULT=TRUE
 
 Visit the **CRM** Tab of the Integrations section:
 
-![ZohoCRM Setup](img/zohocrm3.png)
+![ZohoCRM Setup](img/Zoho 1.jpg)
 
 If you have a LeadDyno account, click [here](https://app.leaddyno.com/integrations/tools). If you are new to LeadDyno, you can signup [here](https://app.leaddyno.com/signup).
 
@@ -70,6 +70,6 @@ Fill in your API Token using the value from the **AUTHTOKEN** created in the las
 Your ZohoCRM connection should now be active. New leads will be automatically sent to your ZohoCRM account. The Lead Source
 will be set as **LeadDyno**.
 
-![ZohoCRM Setup](img/zohocrm5.png)
+![ZohoCRM Setup](img/Zoho 2.jpg)
 
 You can disconnect LeadDyno from sending leads to your ZohoCRM account by clicking the **Disconnect** button.
