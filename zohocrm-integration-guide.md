@@ -8,68 +8,44 @@ id: zohocrm-integration-guide
 
 ### Introduction
 
-LeadDyno offers an integration with ZohoCRM, allowing instant lead creation in ZohoCRM whenever LeadDyno
-captures a lead.
-
-This guide consists of several parts:
-
-* Instructions on how to generate the required AuthToken in ZohoCRM.
-* Configuring your LeadDyno account to connect to your ZohoCRM instance.
+LeadDyno offers a single-click integration with ZohoCRM, allowing instant lead creation in ZohoCRM whenever LeadDyno
+captures a lead or signs up a new affiliate.
 
 
-### Generate Auth Token Inside ZohoCRM ###
+### Connecting To ZohoCRM
+
+First visit the **CRM Services** Tab of the Apps section:
+
+Or click [Here](https://app.leaddyno.com/integrations/store#apps-crm) if you already have a LeadDyno account.
+
+Find the ZohoCRM app, and click **Add**.
+
+![ZohoCRM Setup](img/zohocrm/zohocrm1.png)
 
 
-To generate Auth Token in browser mode, do the following:
+You will be redirected to ZohoCRM, possibly being asked to login if you are not already logged in. 
 
-* Log in to Zoho CRM.
-* Click  (the Settings icon) > Setup > Extensions & APIs > APIs > CRM API.
-* Click the Settings icon and click the Authentication Token Generation link.
+You will then be asked to grant permission to the LeadDyno app. Click **Accept**.
 
-![ZohoCRM Settings](img/zohocrm1.png)
+![ZohoCRM Authorization](img/zohocrm/zohocrm2.png)
 
 
-* Enter your Application Name as **LeadDyno**.
+After a brief pause, you will be redirected back to LeadDyno, which should show you as connected:
+
+![ZohoCRM Connected](img/zohocrm/zohocrm3.png)
 
 
+### Lead/Affiliate Uploading
 
-![ZohoCRM Auth Token](img/zohocrm2.png)
+By default, LeadDyno will upload new leads to your ZohoCRM account as a new **lead**. You can also choose to have new affiliates uploaded
+as a new **contact** record. Click the **Edit** button on the ZohoCRM app.
 
-**Important**
+Check the boxes for which types of records to upload and click **Save**.
 
-* User Auth Token must be kept confidential.
-* Do NOT expose your Auth Token anywhere in public forums, public repositories or on your website's client side code like HTML or JavaScript.
-* Exposing it to public may lead to data theft, loss or corruption.
+![ZohoCRM Settings](img/zohocrm/zohocrm4.png)
 
+That's all there is to it!
 
-Sample Response:
-<pre>
-#
-#Wed Feb 29 03:07:33 PST 2012
-AUTHTOKEN=bad18eba1ff45jk7858b8ae88a77fa30
-RESULT=TRUE
-</pre>
+### Conclusion
 
-* Copy the value from the **AUTHTOKEN** line above.
-
-
-### Enable ZohoCRM Integration Inside LeadDyno ###
-
-Visit the **CRM** Tab of the Integrations section:
-
-![ZohoCRM Setup](img/zohocrm3.png)
-
-If you have a LeadDyno account, click [here](https://app.leaddyno.com/integrations/tools). If you are new to LeadDyno, you can signup [here](https://app.leaddyno.com/signup).
-
-then click **Connect**:
-
-Fill in your API Token using the value from the **AUTHTOKEN** created in the last section, and click **Connect**.
-
-![ZohoCRM Setup](img/zohocrm4.png)
-
-Your ZohoCRM connection should now be active. New leads will be automatically sent to your ZohoCRM account. The Lead Source
-will be set as **LeadDyno**.
-
-![ZohoCRM Setup](img/zohocrm5.png)
-
-You can disconnect LeadDyno from sending leads to your ZohoCRM account by clicking the **Disconnect** button.
+At this point LeadDyno will upload new leads and/or affiliates to your ZohoCRM account automatically!

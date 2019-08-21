@@ -15,9 +15,9 @@ your online shop.
 
 First visit the **E-Commerce Services** Tab of the Apps section:
 
-Or click [Here](https://app.leaddyno.com/settings/integrations/e-commerce) if you already have a LeadDyno account.
+Or click [Here](https://app.leaddyno.com/integrations/store#apps-ecommerce) if you already have a LeadDyno account.
 
-Find the ecwid app, and click **Add**.
+Find the Ecwid app, and click **Add**.
 
 ![Ecwid Setup](img/ecwid/ecwid1.png)
 
@@ -31,7 +31,7 @@ You will then be asked to grant permission to the LeadDyno app. Click **Accept**
 
 After a brief pause, you will be redirected back to LeadDyno, which should show you as connected:
 
-![Ecwid Connectged](img/ecwid/ecwid3.png)
+![Ecwid Connected](img/ecwid/ecwid3.png)
 
 
 ### Coupon Code Integration
