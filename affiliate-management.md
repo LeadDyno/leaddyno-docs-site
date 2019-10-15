@@ -45,6 +45,15 @@ style affiliate programs).
 
 The affiliate who referred this affiliate.  Used when setting up a [Multi-tier Affiliate Program](http://en.wikipedia.org/wiki/Affiliate_marketing#Multi-tier_programs)
 
+##### Referrer domain
+
+This field allows you to assign all traffic coming from a given domain to the affiliate.  For example, if your affiliate has
+a blog a http://myfitnessblog.com, you could set this value to `myfitnessblog.com` and all visitors that came from that
+site would be assigned to the given affiliate, even if they didn't click on an affiliate link.
+
+Note that this feature uses the ["Referer Header"](https://en.wikipedia.org/wiki/HTTP_referer) of the customers browser, 
+which has wide support in browsers today, but is not guaranteed to be available.
+
 When you are done, click the **Save Affiliate** button
 
 ![save_affiliate](img/save_affiliate.jpg)
