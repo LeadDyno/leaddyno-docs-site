@@ -66,7 +66,7 @@ temporary notepad document.
 ### LeadDyno Integrations Settings
 
 * Make sure you are logged into your [LeadDyno](https://app.leaddyno.com) account.
-* Go to the [LeadDyno Payment Services Integration Settings](https://app.leaddyno.com/integrations/payment).
+* Go to the [LeadDyno Payment Services Integration Settings](https://app.leaddyno.com/integrations/store).
 * Click the **Connect** button for PayPal MassPay 
 
 ![/img/paypal_masspay_9.png](img/paypal_masspay_9.png) 
