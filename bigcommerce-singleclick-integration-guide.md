@@ -41,7 +41,10 @@ Under **Advanced Settings**,  choose the **Web Analytics** option.
 
 Next, check the **Google Analytics** option in the Providers box, and click Save.
 
-![Bigcommerce Providers](img/bc_guide_google_and_analytics.png)
+**Note**: Do NOT use the "Affiliate Conversion Tracking" option - this is for web based conversion tracking
+which is not nearly as accurate as LeadDyno tracking which uses Bigcommerce webhooks.
+
+![Bigcommerce Providers](img/bigcommerce/google_and_analytics.png)
 
 A new tab will appear called **Google Analytics**. Click this tab.
 
