@@ -46,9 +46,10 @@ which is not nearly as accurate as LeadDyno tracking which uses Bigcommerce webh
 
 ![Bigcommerce Providers](img/bigcommerce/google_and_analytics.png)
 
-A new tab will appear called **Google Analytics**. Click this tab.
+A new tab will appear called **Google Analytics**. Click this tab, and make sure "Manually add Google Analytics tracking Code"
+is selected.
 
-Paste the code given to you just after adding the LeadDyno app (or you can also use the following javascript)
+Paste the code into the box that was given to you just after adding the LeadDyno app (or you can also use the following javascript)
 into the **Tracking Code** field:
 
 {% highlight html %}
@@ -63,7 +64,7 @@ into the **Tracking Code** field:
 If you are not using the code given to you after adding the LeadDyno app, replace the word **YOUR_PUBLIC_KEY** with
 your **public** API key found on the [LeadDyno Dashboard](https://app.leaddyno.com/settings/account).
 
-![Bigcommerce Google Analytics](img/bc_guide_tracking_code.png)
+![Bigcommerce Google Analytics](img/bigcommerce/tracking_code.png)
 
 After clicking Save, your Bigcommerce store will now have the tracking code on every page.
 
