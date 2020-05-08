@@ -57,6 +57,10 @@ h2:first-of-type::after {
   display: block;
 }
 
+.brand img {
+  max-height: 34px;
+}
+
 .guide-container img {
   max-width: 100%;
   @extend .box-shadow;
