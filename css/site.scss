@@ -57,7 +57,7 @@ h2:first-of-type::after {
   display: block;
 }
 
-img {
+.guide-container img {
   max-width: 100%;
   @extend .box-shadow;
   //padding: 1rem;
